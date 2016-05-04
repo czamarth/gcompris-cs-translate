@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-04 05:58+0200\n"
+"PO-Revision-Date: 2016-05-04 20:28+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -1148,12 +1148,12 @@ msgstr "Poznej Braillův systém"
 #: activities/braille_alphabets/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Learn and memorize the Braille system"
-msgstr ""
+msgstr "Nauč se a zapamatuj si Braillův systém"
 
 #: activities/braille_alphabets/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Let children discover the Braille system."
-msgstr ""
+msgstr "Nech děti poznat Braillův systém."
 
 #: activities/braille_alphabets/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1173,7 +1173,7 @@ msgstr ""
 #: activities/braille_alphabets/braille_alphabets.js:98
 msgctxt "braille_alphabets|"
 msgid "Now it's a little bit harder without the braille map."
-msgstr ""
+msgstr "Nyní to je o trochu složitější bez braillovy mapy znaků."
 
 #: activities/braille_alphabets/braille_alphabets.js:63
 msgctxt "braille_alphabets|"
@@ -1256,7 +1256,7 @@ msgstr ""
 #, qt-format
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the letter %1."
-msgstr ""
+msgstr "Klikni na body v interaktivní Braillově buňce pro napsání písmene %1."
 
 #: activities/braille_alphabets/questions.js:133
 #: activities/braille_alphabets/questions.js:137
@@ -1271,7 +1271,7 @@ msgstr ""
 #, qt-format
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the number %1."
-msgstr ""
+msgstr "Klikni na body v interaktivní Braillově buňce pro napsání čísla %1."
 
 #: activities/braille_alphabets/questions.js:176
 #: activities/braille_alphabets/questions.js:180
@@ -1282,11 +1282,13 @@ msgstr ""
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the symbol %1."
 msgstr ""
+"Klikni na body v interaktivní Braillově buňce pro napsání speciálního znaku "
+"%1."
 
 #: activities/braille_fun/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Braille Fun"
-msgstr ""
+msgstr "Braillova zábava"
 
 #: activities/braille_fun/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -1305,6 +1307,9 @@ msgid ""
 "Tux in his plane across the screen. Check the braille chart by clicking on "
 "the toggle button for help."
 msgstr ""
+"Piš braillův kód v poli pro písmena na vlajce tažené Tuxem v jeho letadle "
+"přes obrazovku. Pomoz si Braillovou tabulkou kliknutím na tlačítko pro "
+"nápovědu."
 
 #: activities/canal_lock/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1361,53 +1366,62 @@ msgid ""
 "little bit and try to predict your opponent's future moves, so you can catch "
 "him on it or secure your pieces from his attacks."
 msgstr ""
+"V této hře se naučích šachy hraním proti počítači. Hra zobrazuje možné "
+"cílové pozice pro libovolnou vybranou figurku a to ti pomůže se naučit, jak "
+"se figurky pohybují. V první úrovni hraje počítač čistě náhodně, aby ti dal "
+"více šancí na výhru. Zvýšením úrovně začne počítač hrát lépe.\n"
+"\n"
+"Můžeš dosáhnout matu (výhry) následováním těchto jednoduchých pravidel:\n"
+"\tSnaž se dostat protivníkova Krále do rohu.\n"
+"\t<b>Vysvětlení</b>: takto bude moci se protivníkova figurka pohnout pouze "
+"ve 3 směrech namísto 8 z nejlepší pozice."
 
 #: activities/chess/ActivityInfo.qml:39
 #: activities/chess_partyend/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
 msgid ""
 "The chess engine is p4wn &lt;https://github.com/douglasbagnall/p4wn&gt;."
-msgstr ""
+msgstr "Šachový engine je p4wn &lt;https://github.com/douglasbagnall/p4wn&gt;."
 
 #: activities/chess/chess.js:128
 msgctxt "chess|"
 msgid "Black's turn"
-msgstr ""
+msgstr "Tah černého hráče"
 
 #: activities/chess/chess.js:128
 msgctxt "chess|"
 msgid "White's turn"
-msgstr ""
+msgstr "Tah bílého hráče"
 
 #: activities/chess/chess.js:133
 msgctxt "chess|white wins"
 msgid "White mates"
-msgstr ""
+msgstr "Bílý vyhrál"
 
 #: activities/chess/chess.js:133
 msgctxt "chess|black wins"
 msgid "Black mates"
-msgstr ""
+msgstr "Černý vyhrál"
 
 #: activities/chess/chess.js:143
 msgctxt "chess|"
 msgid "Drawn game"
-msgstr ""
+msgstr "Remíze"
 
 #: activities/chess/chess.js:147
 msgctxt "chess|black king is under attack"
 msgid "White checks"
-msgstr ""
+msgstr "Bílý dal šach"
 
 #: activities/chess/chess.js:147
 msgctxt "chess|white king is under attack"
 msgid "Black checks"
-msgstr ""
+msgstr "Černý dal šach"
 
 #: activities/chess/chess.js:149
 msgctxt "chess|"
 msgid "Invalid, your king may be in check"
-msgstr ""
+msgstr "Neplatný tah, tvůj král může mít šach"
 
 #: activities/chess/Chess.qml:144
 msgctxt "Chess|"
@@ -1422,12 +1436,12 @@ msgstr "Znovu"
 #: activities/chess/Chess.qml:182
 msgctxt "Chess|"
 msgid "Swap"
-msgstr ""
+msgstr "Prohození"
 
 #: activities/chess_2players/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Play chess against your friend"
-msgstr ""
+msgstr "Hraj šachy proti příteli"
 
 #: activities/chess_2players/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1448,11 +1462,20 @@ msgid ""
 "little bit and try to predict your opponent's future moves, so you can catch "
 "him on it or secure your pieces from his attacks."
 msgstr ""
+"V této hře se naučíš hrát šachy proti příteli. Hra zobrazuje možné tahy pro "
+"každou vybranou figurku,  a to ti pomůže se naučit, jak se figurky pohybují. "
+"V první úrovni hraje počítač čistě náhodně, aby ti dal více šancí na výhru. "
+"Zvýšením úrovně začne počítač hrát lépe.\n"
+"\n"
+"Můžeš dosáhnout matu (výhry) následováním těchto jednoduchých pravidel:\n"
+"\tSnaž se dostat protivníkova Krále do rohu.\n"
+"\t<b>Vysvětlení</b>: takto bude moci se protivníkova figurka pohnout pouze "
+"ve 3 směrech namísto 8 z nejlepší pozice."
 
 #: activities/chess_partyend/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "End of chess game"
-msgstr ""
+msgstr "Konec šachové partie"
 
 #: activities/chess_partyend/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -1478,26 +1501,35 @@ msgid ""
 "little bit and try to predict your opponent's future moves, so you can catch "
 "him on it or secure your pieces from his attacks."
 msgstr ""
+"V této hře se naučíš hrát šachy hraním pouze několika posledních tahů. Hra "
+"zobrazuje možné tahy pro každou vybranou figurku,  a to ti pomůže se naučit, "
+"jak se figurky pohybují. V první úrovni hraje počítač čistě náhodně, aby ti "
+"dal více šancí na výhru. Zvýšením úrovně začne počítač hrát lépe.\n"
+"\n"
+"Můžeš dosáhnout matu (výhry) následováním těchto jednoduchých pravidel:\n"
+"\tSnaž se dostat protivníkova Krále do rohu.\n"
+"\t<b>Vysvětlení</b>: takto bude moci se protivníkova figurka pohnout pouze "
+"ve 3 směrech namísto 8 z nejlepší pozice."
 
 #: activities/chronos/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Chronos"
-msgstr ""
+msgstr "Chronos"
 
 #: activities/chronos/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to organize the story"
-msgstr ""
+msgstr "Chytni a přetáhni položky pro uspořádání příběhu"
 
 #: activities/chronos/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Sort the pictures into the order that tells the story"
-msgstr ""
+msgstr "Seřaď obrázky do správného pořadí vyprávění příběhu"
 
 #: activities/chronos/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "Tell a short story"
-msgstr ""
+msgstr "Vyprávěj krátký příběh"
 
 #: activities/chronos/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
