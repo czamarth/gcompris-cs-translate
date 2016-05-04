@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-04-24 16:42+0200\n"
+"PO-Revision-Date: 2016-05-04 05:58+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -1062,16 +1062,16 @@ msgid "Error saving %n level(s) to your levels file (%1)"
 msgid_plural "Error saving %n level(s) to your levels file (%1)"
 msgstr[0] "Chyba při ukládání %n úrovně do souboru úrovní (%1)"
 msgstr[1] "Chyba při ukládání %n úrovní do souboru úrovní (%1)"
-msgstr[2] ""
+msgstr[2] "Chyba při ukládání %n úrovní do souboru úrovní (%1)"
 
 #: activities/balancebox/editor/balanceboxeditor.js:167
 #, qt-format
 msgctxt "balanceboxeditor|"
 msgid "Saved %n level(s) to your levels file (%1)"
 msgid_plural "Saved %n level(s) to your levels file (%1)"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Uložena %n úroveň do souboru úrovní (%1)"
+msgstr[1] "Uložena %n úrovně do souboru úrovní (%1)"
+msgstr[2] "Uložena %n úrovní do souboru úrovní (%1)"
 
 #: activities/balancebox/editor/balanceboxeditor.js:281
 msgctxt "balanceboxeditor|"
@@ -1105,11 +1105,14 @@ msgid "Make the ball go to Tux"
 msgstr "Hoď Tuxovi míč"
 
 #: activities/ballcatch/ActivityInfo.qml:27
+#, fuzzy
 msgctxt "ActivityInfo|"
 msgid ""
 "Press the left and right arrow keys at the same time, to make the ball go in "
 "a straight line."
 msgstr ""
+"Mačkej levou a pravou kurzorovou klávesu ve stejnou chvíli, aby míč "
+"pokračoval rovně."
 
 #: activities/ballcatch/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1118,12 +1121,15 @@ msgid ""
 "straight line. On a touch screen you have to hit the two hands at the same "
 "time."
 msgstr ""
+"Mačkej levou a pravou kurzorovou klávesu ve stejnou chvíli, aby míč "
+"pokračoval rovně. Na dotykové obrazovce se dotýkej obou rukou ve stejnou "
+"chvíli."
 
 #: activities/ballcatch/Ballcatch.qml:245
 msgctxt "Ballcatch|"
 msgid ""
 "Tap both hands at the same time, to make the ball go in a straight line."
-msgstr ""
+msgstr "Na dotykové obrazovce se dotýkej obou rukou ve stejnou chvíli."
 
 #: activities/ballcatch/Ballcatch.qml:247
 msgctxt "Ballcatch|"
@@ -1131,6 +1137,8 @@ msgid ""
 "Press left and right arrow keys at the same time, to make the ball go in a "
 "straight line."
 msgstr ""
+"Mačkej levou a pravou kurzorovou klávesu ve stejnou chvíli, aby míč "
+"pokračoval rovně."
 
 #: activities/braille_alphabets/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
