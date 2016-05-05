@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-04 20:28+0200\n"
+"PO-Revision-Date: 2016-05-05 20:30+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -1534,7 +1534,7 @@ msgstr "Vyprávěj krátký příběh"
 #: activities/chronos/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid "Pick from the pictures on the left and put them on the red dots"
-msgstr ""
+msgstr "Vyber obrázky vlevo a polož je na červené body"
 
 #: activities/chronos/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
@@ -1544,116 +1544,121 @@ msgid ""
 "images are copyright Franck Doucet. Dates of Transportation are based on "
 "those found in &lt;http://www.wikipedia.org&gt;."
 msgstr ""
+"Autorské právo na fotku Měsíce vlastní NASA. Vesmírné zvuky pochází z "
+"programů Tuxpaint a Vegastrike vydaných pod GPL licencí. Autorské právo na "
+"obrázky dopravy vlastní Franck Doucet. Data pochází z &lt;http://www."
+"wikipedia.org&gt;."
 
 #: activities/chronos/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Moonwalker"
-msgstr ""
+msgstr "Měsíční chodec"
 
 #: activities/chronos/resource/board/board1_0.qml:56
 msgctxt "board1_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board1_0.qml:63
 msgctxt "board1_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board1_0.qml:70
 msgctxt "board1_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board1_0.qml:77
 msgctxt "board1_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid "The 4 Seasons"
-msgstr ""
+msgstr "Čtyři roční období"
 
 #: activities/chronos/resource/board/board2_0.qml:56
 msgctxt "board2_0|"
 msgid "Spring"
-msgstr ""
+msgstr "Jaro"
 
 #: activities/chronos/resource/board/board2_0.qml:63
 msgctxt "board2_0|"
 msgid "Summer"
-msgstr ""
+msgstr "Léto"
 
 #: activities/chronos/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "Autumn"
-msgstr ""
+msgstr "Podzim"
 
 #: activities/chronos/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "Winter"
-msgstr ""
+msgstr "Zima"
 
 #: activities/chronos/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Gardening"
-msgstr ""
+msgstr "Zahradnictví"
 
 #: activities/chronos/resource/board/board3_0.qml:56
 msgctxt "board3_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board3_0.qml:63
 msgctxt "board3_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board3_0.qml:70
 msgctxt "board3_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "Tux and the apple tree"
-msgstr ""
+msgstr "Tux a jabloň"
 
 #: activities/chronos/resource/board/board4_0.qml:56
 msgctxt "board4_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board4_0.qml:63
 msgctxt "board4_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board4_0.qml:70
 msgctxt "board4_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board5_0.qml:26
 msgctxt "board5_0|"
 msgid "Place each image in the order and on the date it was invented."
 msgstr ""
+"Umisti každý obrázek ve správném pořadí a na datum, kdy byl věc vynalezena."
 
 #: activities/chronos/resource/board/board5_0.qml:43
 msgctxt "board5_0|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 Stephensonova Lokomotiva Rocket"
 
 #: activities/chronos/resource/board/board5_0.qml:50
 msgctxt "board5_0|"
