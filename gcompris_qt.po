@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-05 20:30+0200\n"
+"PO-Revision-Date: 2016-05-05 20:43+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -1668,12 +1668,12 @@ msgstr ""
 #: activities/chronos/resource/board/board5_0.qml:57
 msgctxt "board5_0|"
 msgid "Transportation"
-msgstr ""
+msgstr "Doprava"
 
 #: activities/chronos/resource/board/board5_1.qml:25
 msgctxt "board5_1|"
 msgid "Transportation"
-msgstr ""
+msgstr "Doprava"
 
 #: activities/chronos/resource/board/board5_1.qml:49
 msgctxt "board5_1|"
@@ -1693,7 +1693,7 @@ msgstr ""
 #: activities/chronos/resource/board/board5_2.qml:25
 msgctxt "board5_2|"
 msgid "Transportation"
-msgstr ""
+msgstr "Doprava"
 
 #: activities/chronos/resource/board/board5_2.qml:49
 msgctxt "board5_2|"
@@ -1713,7 +1713,7 @@ msgstr ""
 #: activities/chronos/resource/board/board5_3.qml:25
 msgctxt "board5_3|"
 msgid "Transportation"
-msgstr ""
+msgstr "Doprava"
 
 #: activities/chronos/resource/board/board5_3.qml:49
 msgctxt "board5_3|"
@@ -1733,7 +1733,7 @@ msgstr ""
 #: activities/chronos/resource/board/board5_4.qml:25
 msgctxt "board5_4|"
 msgid "Transportation"
-msgstr ""
+msgstr "Doprava"
 
 #: activities/chronos/resource/board/board5_4.qml:49
 msgctxt "board5_4|"
@@ -1753,7 +1753,7 @@ msgstr ""
 #: activities/chronos/resource/board/board6_0.qml:26
 msgctxt "board6_0|"
 msgid "Aviation"
-msgstr ""
+msgstr "Letectví"
 
 #: activities/chronos/resource/board/board6_0.qml:50
 msgctxt "board6_0|"
@@ -1773,7 +1773,7 @@ msgstr ""
 #: activities/chronos/resource/board/board6_1.qml:25
 msgctxt "board6_1|"
 msgid "Aviation"
-msgstr ""
+msgstr "Letectví"
 
 #: activities/chronos/resource/board/board6_1.qml:49
 msgctxt "board6_1|"
@@ -1793,7 +1793,7 @@ msgstr ""
 #: activities/chronos/resource/board/board6_2.qml:25
 msgctxt "board6_2|"
 msgid "Cars"
-msgstr ""
+msgstr "Auta"
 
 #: activities/chronos/resource/board/board6_2.qml:49
 msgctxt "board6_2|"
@@ -1813,22 +1813,22 @@ msgstr ""
 #: activities/chronos/resource/board/board6_3.qml:25
 msgctxt "board6_3|"
 msgid "Cars"
-msgstr ""
+msgstr "Auta"
 
 #: activities/chronos/resource/board/board6_3.qml:49
 msgctxt "board6_3|"
 msgid "1899 Renault voiturette"
-msgstr ""
+msgstr "1899 Renault voiturette"
 
 #: activities/chronos/resource/board/board6_3.qml:56
 msgctxt "board6_3|"
 msgid "1923 Lancia Lambda"
-msgstr ""
+msgstr "1923 Lancia Lambda"
 
 #: activities/chronos/resource/board/board6_3.qml:63
 msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
-msgstr ""
+msgstr "1955 Citroën DS 19"
 
 #: activities/click_on_letter/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1851,7 +1851,7 @@ msgstr "Rozpoznávání názvů písmen"
 #: activities/click_on_letter_up/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Visual letter-recognition."
-msgstr ""
+msgstr "Rozpoznání písmen"
 
 #: activities/click_on_letter/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1865,7 +1865,7 @@ msgstr ""
 #: activities/click_on_letter/ClickOnLetter.qml:112
 msgctxt "ClickOnLetter|"
 msgid "Select your locale"
-msgstr ""
+msgstr "Vyber svou abecedu"
 
 #: activities/click_on_letter_up/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1895,7 +1895,7 @@ msgstr "Nakreslete obrázek klikáním na vybrané body."
 #: activities/clickanddraw/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Can move the mouse and click accurately on points."
-msgstr ""
+msgstr "Pohybuj myší a klikej přesně na tečky."
 
 #: activities/clickanddraw/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1903,6 +1903,8 @@ msgid ""
 "Draw the picture by clicking on each point in sequence. Each time a point is "
 "selected the next blue one appears."
 msgstr ""
+"Nakresli obrázek klikáním na každý bod v posloupnosti. Vždy když vybereš bod "
+"následující modrý bod se objeví."
 
 #: activities/clickgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1912,17 +1914,17 @@ msgstr "Klikni na mě"
 #: activities/clickgame/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Catch all the swimming fish before they leave the fish tank"
-msgstr ""
+msgstr "Chytni všechny plavající ryby před tím než opustí akvárium."
 
 #: activities/clickgame/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Motor coordination: moving the hand precisely."
-msgstr ""
+msgstr "Jemné pohyby: hýbej rukou co nejpřesněji."
 
 #: activities/clickgame/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Can move mouse and click on the correct place"
-msgstr ""
+msgstr "Dokáže pohybovat myší a kliknout do správného místa"
 
 #: activities/clickgame/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1930,6 +1932,7 @@ msgid ""
 "Catch all the moving fish by simple clicking or touching them with your "
 "finger."
 msgstr ""
+"Chytni všechny pohybující se ryby klikáním nebo dotýkáním se jich prstem."
 
 #: activities/clickgame/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
