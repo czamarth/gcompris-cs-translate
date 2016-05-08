@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-05 20:43+0200\n"
+"PO-Revision-Date: 2016-05-08 09:27+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -1078,6 +1078,7 @@ msgctxt "balanceboxeditor|"
 msgid ""
 "You have unsaved changes!<br/> Really leave this level and lose changes?"
 msgstr ""
+"Máš neuložené změny<br/> Vážně chceš opustit tuto úroveň a přijít o ně?"
 
 #: activities/balancebox/editor/balanceboxeditor.js:283
 msgctxt "balanceboxeditor|"
@@ -1951,7 +1952,7 @@ msgstr "Nauč se hodiny"
 #: activities/clockgame/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Learn how to tell the time on an analog clock"
-msgstr ""
+msgstr "Nauč se poznat čas na ručičkových hodinách"
 
 #: activities/clockgame/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -1959,11 +1960,13 @@ msgid ""
 "Distinguish between time-units (hour, minute and second). Set and display "
 "time on an analog clock."
 msgstr ""
+"Rozlišuj mezi časovými jednotkami (hodiny, minuty a vteřiny). Nastav a ukaž "
+"hodiny na ručičkových hodinách."
 
 #: activities/clockgame/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "The concept of time."
-msgstr ""
+msgstr "Pojem času."
 
 #: activities/clockgame/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1972,6 +1975,9 @@ msgid ""
 "hours:minutes:seconds). Drag the different arrows, to make the respective "
 "time unit go up or down."
 msgstr ""
+"Nastav čas na daný čas v zobrazených časových jednotkách (hodiny:minuty nebo "
+"hodiny:minuty:vteřiny). Tahej různé šipky pro nastevení patřičné časové "
+"jednotky nahoru nebo dolu."
 
 #: activities/clockgame/Clockgame.qml:105
 msgctxt "Clockgame|"
@@ -1983,27 +1989,27 @@ msgstr "Nastav hodiny na:"
 msgctxt "Clockgame|"
 msgid "%n hour(s)"
 msgid_plural "%n hour(s)"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%n hodina"
+msgstr[1] "%n hodiny"
+msgstr[2] "%n hodin"
 
 #: activities/clockgame/Clockgame.qml:111
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n minute(s)"
 msgid_plural "%n minute(s)"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%n minuta"
+msgstr[1] "%n minuty"
+msgstr[2] "%n minut"
 
 #: activities/clockgame/Clockgame.qml:114
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n second(s)"
 msgid_plural "%n second(s)"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%n vteřina"
+msgstr[1] "%n vteřiny"
+msgstr[2] "%n vteřin"
 
 #: activities/color_mix/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
