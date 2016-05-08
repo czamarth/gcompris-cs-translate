@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-08 09:27+0200\n"
+"PO-Revision-Date: 2016-05-08 21:11+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -2019,7 +2019,7 @@ msgstr "Míchání tiskařských barev"
 #: activities/color_mix/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Discover paint color mixing."
-msgstr ""
+msgstr "Objev míchání barev"
 
 #: activities/color_mix/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -2041,11 +2041,20 @@ msgid ""
 "yellow.\n"
 "        "
 msgstr ""
+"\n"
+"Activita představuje míchání barev obrazu (subtraktivní míšení).\n"
+"\n"
+"V případě obrazů inkoust pohlcuje různé barvy světla, které na něj dopadají, "
+"a odečítá je od toho, co vidíš. Přidáš-li více inkousktu, více světla bude "
+"pohlceno a kombinace barev se stane tmavší. Dokážeme míchat tři základní "
+"barvy pro vytvoření spousty nových barev. Základní barvy pro obraz/inkoust "
+"jsou tyrkysová (zvláštní odstín modré), purpurová (zvláštní odstín růžové) a "
+"žlutá."
 
 #: activities/color_mix/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid "Images from http://openclipart.org"
-msgstr ""
+msgstr "Obrázky z http://openclipart.org"
 
 #: activities/color_mix/ColorMix.qml:97
 msgctxt "ColorMix|"
@@ -2120,7 +2129,7 @@ msgstr "Míchání barevných světel"
 #: activities/color_mix_light/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Discover light color mixing."
-msgstr ""
+msgstr "Objev michání barev světla"
 
 #: activities/color_mix_light/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -2163,16 +2172,18 @@ msgid ""
 "This activity teaches you to recognize different colors. When you hear the "
 "name of the color, touch the duck wearing it."
 msgstr ""
+"Aktivita tě naučí rozpoznávat různé barvy. Zmáčkni kačenku barvy, kterou "
+"uslyšíš."
 
 #: activities/colors/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Identifying colours"
-msgstr ""
+msgstr "Rozpoznávání barev"
 
 #: activities/colors/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Listen to the color and touch the matching duck."
-msgstr ""
+msgstr "Poslouchej jméno barvy a zmáčkní odpovídající kačenku."
 
 #: activities/colors/colors.js:24 activities/colors/colors.js:56
 #: activities/colors/colors.js:98
@@ -2234,12 +2245,12 @@ msgstr "Najdi růžovou kačenku"
 #: activities/details/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Find the details"
-msgstr ""
+msgstr "Najdi detail"
 
 #: activities/details/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid "The images are from Wikimedia Commons."
-msgstr ""
+msgstr "Obrazy jsou z Wikimedia Commons."
 
 #: activities/details/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
@@ -2352,12 +2363,12 @@ msgstr ""
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Number sequence"
-msgstr ""
+msgstr "Pořadí čísel"
 
 #: activities/drawnumber/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Touch the numbers in the right sequence."
-msgstr ""
+msgstr "Zmáčkni čísla ve správném pořadí"
 
 #: activities/drawnumber/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -2371,6 +2382,8 @@ msgid ""
 "your finger or dragging the mouse through the numbers in the correct "
 "sequence."
 msgstr ""
+"Nakresli obrázek dotykem každého čísla ve správném pořadí nebo jeď prstem "
+"nebo táhni myš skrz čísla ve správném pořadí."
 
 #: activities/enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
