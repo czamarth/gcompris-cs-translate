@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-08 21:11+0200\n"
+"PO-Revision-Date: 2016-05-09 20:52+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -2414,11 +2414,14 @@ msgid ""
 "the item you want to answer in the bottom right area. Enter the answer with "
 "the keyboard."
 msgstr ""
+"Nejdříve správně roztřiď předměty, abys je mohl spočítat. Poté vyber "
+"předmět, který chceš odpovědět ve spodní oblasti. Napiš správnou odpověď "
+"pomocí klávenice."
 
 #: activities/erase/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Move the mouse or touch the screen"
-msgstr ""
+msgstr "Hýbej myši nebo se dotýkej obrazovky"
 
 #: activities/erase/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -2426,6 +2429,8 @@ msgid ""
 "Move the mouse or touch the screen to erase the area and discover the "
 "background"
 msgstr ""
+"Pohybuj myší nebo se dotýkej obrazovky pro vymazání oblasti a objevení "
+"pozadí."
 
 #: activities/erase/ActivityInfo.qml:29
 #: activities/erase_2clic/ActivityInfo.qml:29
@@ -2447,12 +2452,12 @@ msgstr "Manipulace s myší"
 #: activities/erase/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Move the mouse or touch the screen until all the blocks disappear."
-msgstr ""
+msgstr "Hýbej myší nebo se dotýkej obrazovky dokud všechny bloky nezmizí."
 
 #: activities/erase_2clic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Double tap or double click"
-msgstr ""
+msgstr "Dvakrát klepni nebo dvakrát klikni"
 
 #: activities/erase_2clic/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -2460,6 +2465,8 @@ msgid ""
 "Double tap or double click to erase the area and discover the background "
 "image"
 msgstr ""
+"Dvakrát klepni nebo dvakrát klikni, abys vymazal oblast a objevil obrázek na "
+"pozadí"
 
 #: activities/erase_2clic/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -2467,38 +2474,40 @@ msgid ""
 "Double tap or double click the mouse on rectangles until all the blocks "
 "disappear."
 msgstr ""
+"Dvakrát klepni nebo dvakrát klikni myší na obdélníky dokud všechny bloky "
+"nezmizí."
 
 #: activities/erase_clic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click or tap"
-msgstr ""
+msgstr "Klikni nebo klepni"
 
 #: activities/erase_clic/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Click or tap to erase the area and discover the background"
-msgstr ""
+msgstr "Klikni nebo klepni pro vymazání oblasti a objevení pozadí"
 
 #: activities/erase_clic/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Click or tap on the blocks all of them disappear."
-msgstr ""
+msgstr "Klikni nebo klepni na všechny bloky, aby zmizely"
 
 #: activities/explore_farm_animals/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Explore Farm Animals"
-msgstr ""
+msgstr "Prozkoumej zemědělská zvířata"
 
 #: activities/explore_farm_animals/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Learn about farm animals, what sounds they make, and interesting facts."
-msgstr ""
+msgstr "Nauč se zemědělská zvířata, jaké dělají zvuky a další zajímavé údaje"
 
 #: activities/explore_farm_animals/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
 msgid ""
 "Learn to associate animal sounds with the animal name and what the animal "
 "looks like."
-msgstr ""
+msgstr "Nauč se přiřadit zvířecí zvuky se jménem zvířete a jak zvíře vypadá"
 
 #: activities/explore_farm_animals/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -2519,26 +2528,39 @@ msgid ""
 "animal that matches the text. When you have matched all texts correctly, you "
 "win!\n"
 msgstr ""
+"Ve hře jsou tři úrovně\n"
+"\n"
+"V první úrovni hráči zkoumají zvířata na obrazovce. Zmáčkni otazník a dozvi "
+"se, jak se zvíře jmenuje, jaké dělá zvuky a jak vypadá. Nauč se to, protože "
+"se tvoje znalosti ověří v úrovních dva a tři!\n"
+"\n"
+"V druhé úrovni uslyšíš náhodný zvířecí zvuk a tvým úkolem je vybrat zvíře, "
+"které tento zvuk dělá. Klikni na otazník, který odpovídá zvířeti, které si "
+"slyšel. Můžeš zmáčknout tlačítko Play pro zopakování zvířecího zvuku. Když "
+"správně rozpoznáš všechny zvířata, vyhraješ!\n"
+"\n"
+"Ve třetí úrovni se objeví náhodné jméno zvířete a tvým úkolem je vybrat "
+"odpovídající zvíře. Když správně rozpoznáš všechna zvířata, vyhraješ!\n"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:31
 msgctxt "board1|"
 msgid "Horse"
-msgstr ""
+msgstr "Kůň"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:32
 msgctxt "board1|"
 msgid "The horse goes 'neigh! neigh!'. Horses usually sleep standing up."
-msgstr ""
+msgstr "Kůň dělá ‘Íhahá! Íhahá!’. Koně obyčejně spí ve stoje."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:35
 msgctxt "board1|"
 msgid "You can ride on the back of this animal!"
-msgstr ""
+msgstr "Můžeš jezdit na zádech tohoto zvířete!"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:43
 msgctxt "board1|"
 msgid "Chicken"
-msgstr ""
+msgstr "Slepice"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:44
 msgctxt "board1|"
@@ -2546,16 +2568,18 @@ msgid ""
 "The chicken goes 'luck, cackle, cluck'. Chickens have over 200 different "
 "noises they can use to communicate."
 msgstr ""
+"Slepice dělá ‘kokodák’. Slepice umí dělat více než 200 zvuků, kterými "
+"komunikuje s ostatními."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:47
 msgctxt "board1|"
 msgid "This animal lays eggs."
-msgstr ""
+msgstr "Toto zvíře snáší vejce."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:55
 msgctxt "board1|"
 msgid "Cow"
-msgstr ""
+msgstr "Kráva"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:56
 msgctxt "board1|"
@@ -2563,16 +2587,18 @@ msgid ""
 "The cow goes 'moo. moo.'. Cows are herbivorous mammals. They graze all day "
 "in the meadow."
 msgstr ""
+"Kráva dělá ‘búú, búú’. Krávy jsou býložraví savci. Pasou se celý den na "
+"louce."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:59
 msgctxt "board1|"
 msgid "You can drink the milk this animal produces."
-msgstr ""
+msgstr "Můžeš pít mléko, které toto zvíře dává."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:67
 msgctxt "board1|"
 msgid "Cat"
-msgstr ""
+msgstr "Kočka"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:68
 msgctxt "board1|"
@@ -2580,21 +2606,23 @@ msgid ""
 "The cat goes 'meow, meow'. Cats usually hate water because their fur doesn't "
 "stay warm when it is wet."
 msgstr ""
+"Kočka dělá ‘mňau, mňau’. Kočky obyčejně nemají rády vodu, protože jejich "
+"kožíšek je nechrání před zimou, když je mokrý."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:71
 msgctxt "board1|"
 msgid "This pet likes chasing mice."
-msgstr ""
+msgstr "Toto zvíře rádo honí myši."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:79
 msgctxt "board1|"
 msgid "Pig"
-msgstr ""
+msgstr "Prase"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:80
 msgctxt "board1|"
 msgid "The pig goes 'oink, oink'. Pigs are the 4th most intelligent animal."
-msgstr ""
+msgstr "Prase dělá ‘chro, chro’. Prasata jsou čtvrté nejchytřejší zvíře."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:83
 msgctxt "board1|"
@@ -2604,7 +2632,7 @@ msgstr "Toto zvíře má rádo válení v blátě."
 #: activities/explore_farm_animals/resource/board/board1.qml:91
 msgctxt "board1|"
 msgid "Duck"
-msgstr ""
+msgstr "Kachna"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:92
 msgctxt "board1|"
@@ -2612,6 +2640,8 @@ msgid ""
 "The duck goes 'quack, quack'. Ducks have special features like webbed feet "
 "and produce an oil to make their feathers 'waterproof'."
 msgstr ""
+"Kachna dělá ‘káč, káč’. Kachny mají zvláštní vlastnosti jako plovací blány a "
+"vyrábí olej, který dělá jejich peří ‘vodotěsným’."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:95
 msgctxt "board1|"
