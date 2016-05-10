@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-09 20:52+0200\n"
+"PO-Revision-Date: 2016-05-10 17:19+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -2495,12 +2495,12 @@ msgstr "Klikni nebo klepni na všechny bloky, aby zmizely"
 #: activities/explore_farm_animals/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Explore Farm Animals"
-msgstr "Prozkoumej zemědělská zvířata"
+msgstr "Prozkoumej hospodářská zvířata"
 
 #: activities/explore_farm_animals/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Learn about farm animals, what sounds they make, and interesting facts."
-msgstr "Nauč se zemědělská zvířata, jaké dělají zvuky a další zajímavé údaje"
+msgstr "Nauč se hospodářská zvířata, jaké dělají zvuky a další zajímavé údaje"
 
 #: activities/explore_farm_animals/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -2646,18 +2646,18 @@ msgstr ""
 #: activities/explore_farm_animals/resource/board/board1.qml:95
 msgctxt "board1|"
 msgid "This animal has webbed feet so it can swim in the water."
-msgstr ""
+msgstr "Toto zvíře umí plavat na vodě díky plovacím blánám."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:103
 msgctxt "board1|"
 msgid "Owl"
-msgstr ""
+msgstr "Sova"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:104
 msgctxt "board1|"
 msgid ""
 "The owl goes 'hoo. hoo.' The owl has excellent vision and hearing at night."
-msgstr ""
+msgstr "Sova dělá ‘húú, húú’. Sova skvěle vidí a slyši v noci."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:107
 msgctxt "board1|"
@@ -2667,7 +2667,7 @@ msgstr "Toto zvíře rádo vychází ven v noci."
 #: activities/explore_farm_animals/resource/board/board1.qml:115
 msgctxt "board1|"
 msgid "Dog"
-msgstr ""
+msgstr "Pes"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:116
 msgctxt "board1|"
@@ -2675,16 +2675,18 @@ msgid ""
 "The dog goes 'bark! bark!'. Dogs are great human companions and usually "
 "enjoy love and attention."
 msgstr ""
+"Pes dělá ‘haf! haf!’. Psi jsou skvělí společníci lidí a mají rádi lásku a "
+"pozornost."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:119
 msgctxt "board1|"
 msgid "This animal's ancestors were wolves."
-msgstr ""
+msgstr "Toto zvíře pochází z vlka."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:127
 msgctxt "board1|"
 msgid "Rooster"
-msgstr ""
+msgstr "Kohout"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:128
 msgctxt "board1|"
@@ -2692,6 +2694,8 @@ msgid ""
 "The rooster goes 'coc-a-doodle-doo!'. Roosters have been on farms for about "
 "5,000 years. Every morning it wakes the farm up with its noises."
 msgstr ""
+"Kohout dělá ‘kykyrykýýý!’. Kohouti žijí na statku přes 5.000 let. Každé ráno "
+"budí celý statek svým kokrháním."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:131
 msgctxt "board1|"
@@ -2701,7 +2705,7 @@ msgstr "Toto zvíře budí ráno hospodářství."
 #: activities/explore_farm_animals/resource/board/board1.qml:139
 msgctxt "board1|"
 msgid "Sheep"
-msgstr ""
+msgstr "Ovce"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:140
 msgctxt "board1|"
@@ -2720,7 +2724,7 @@ msgstr "Tohle zvíře je blízký příbuzný kozy."
 #: activities/explore_farm_animals/resource/board/board1.qml:153
 msgctxt "board1|"
 msgid "Click on the questions to explore each farm animal."
-msgstr ""
+msgstr "Klikni na otázku pro zkoumání každého hospodářského zvířete."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:156
 msgctxt "board1|"
@@ -2733,14 +2737,15 @@ msgid "Click the animal that matches the description."
 msgstr "Klikni na zvíře, které odpovídá popisu."
 
 #: activities/explore_monuments/ActivityInfo.qml:26
+#, fuzzy
 msgctxt "ActivityInfo|"
 msgid "Explore Monuments"
-msgstr ""
+msgstr "Prozkoumej památky"
 
 #: activities/explore_monuments/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Explore Monuments around the world."
-msgstr ""
+msgstr "Prozkoumej památky po celém světě."
 
 #: activities/explore_monuments/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -2750,25 +2755,25 @@ msgstr ""
 #: activities/explore_monuments/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Knowledge of different monuments."
-msgstr ""
+msgstr "Znalost různých památek."
 
 #: activities/explore_monuments/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
 "Click on the given keys to learn more of the monuments and then identify "
 "where the monuments is on the map by its name."
-msgstr ""
+msgstr "Klikej na dané klíče"
 
 #: activities/explore_monuments/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Photos taken from Wikipedia."
-msgstr ""
+msgstr "Fotky pochází z Wikipedie."
 
 #: activities/explore_monuments/resource/board/board1.qml:30
 #: activities/explore_monuments/resource/board/board1.qml:33
 msgctxt "board1|"
 msgid "Chichén Itzá"
-msgstr ""
+msgstr "Chichén Itzá"
 
 #: activities/explore_monuments/resource/board/board1.qml:31
 msgctxt "board1|"
@@ -2778,6 +2783,10 @@ msgid ""
 "established before the period of Christopher Colombus and probably served as "
 "the religion center of Yucatan for a while."
 msgstr ""
+"Chichen Itza znamenající “v hrdle studny Itza” je Majské město na plošině "
+"Yucatan v Mexiku mezi městy Valladolid a Merida. Bylo založeno před časem "
+"Kristofera Kolomba a patrně sloužilo jako náboženské centrum Yucatanu po "
+"nějakou dobou."
 
 #: activities/explore_monuments/resource/board/board1.qml:41
 #: activities/explore_monuments/resource/board/board1.qml:44
@@ -2795,6 +2804,11 @@ msgid ""
 "first permanent amphitheatre to be raised in Rome, and the most impressive "
 "arena the Classical world had yet seen."
 msgstr ""
+"Koloseum je dnes nejznámější Římská klasická stavba. I po 2.000 letech po "
+"své stavbě a poté co bylo po staletí opuštěné a ničené pro stavební "
+"materiál, je hned zřejmé, že jde o klasickou předlohu dnešním stadionům. Jde "
+"o první stálý amfiteátr postavený v Římě a nejimpozantnější arena v "
+"klasickém světě."
 
 #: activities/explore_monuments/resource/board/board1.qml:52
 #: activities/explore_monuments/resource/board/board1.qml:55
@@ -2814,7 +2828,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board1.qml:66
 msgctxt "board1|"
 msgid "The Great Wall of China"
-msgstr ""
+msgstr "Velká Čínská zeď"
 
 #: activities/explore_monuments/resource/board/board1.qml:64
 msgctxt "board1|"
@@ -2824,12 +2838,15 @@ msgid ""
 "mountains and plateaus, stretching approximately 13,170 miles (21,196 "
 "kilometers) from east to west of China."
 msgstr ""
+"Velká zeď byla zapsaná mezi Světové dědictví UNESCO v roce 1987. Jako obří "
+"drak se proplétá nahoru a dolu pouštěmi, pastvinami, horami a nížinami. Její "
+"délka je přibližně 21.196 kilometrů (13.170 mílí) od východu na západ Číny."
 
 #: activities/explore_monuments/resource/board/board1.qml:74
 #: activities/explore_monuments/resource/board/board1.qml:77
 msgctxt "board1|"
 msgid "Machu Picchu"
-msgstr ""
+msgstr "Machu Picchu"
 
 #: activities/explore_monuments/resource/board/board1.qml:75
 msgctxt "board1|"
@@ -2841,15 +2858,16 @@ msgid ""
 "continuous rock escarpments. The natural setting, on the eastern slopes of "
 "the Andes, encompasses the upper Amazon basin with its rich diversity of "
 "flora and fauna."
-msgstr ""
+msgstr "Machu Picchu"
 
 #: activities/explore_monuments/resource/board/board1.qml:85
 #: activities/explore_monuments/resource/board/board1.qml:88
 msgctxt "board1|"
 msgid "Petra"
-msgstr ""
+msgstr "Petra"
 
 #: activities/explore_monuments/resource/board/board1.qml:86
+#, fuzzy
 msgctxt "board1|"
 msgid ""
 "Petra is a historical and archaeological city in the southern Jordanian "
@@ -2857,12 +2875,12 @@ msgid ""
 "conduit system. Established possibly as early as 312 BC as the capital city "
 "of the Arab Nabataeans, it is a symbol of Jordan, as well as Jordan's most-"
 "visited tourist attraction."
-msgstr ""
+msgstr "Petra je historické a archeologické město v jižním Jordánsku "
 
 #: activities/explore_monuments/resource/board/board1.qml:96
 msgctxt "board1|"
 msgid "Taj Mahal, India"
-msgstr ""
+msgstr "Taj Mahal, Indie"
 
 #: activities/explore_monuments/resource/board/board1.qml:97
 msgctxt "board1|"
@@ -2876,12 +2894,12 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board1.qml:99
 msgctxt "board1|"
 msgid "Taj Mahal"
-msgstr ""
+msgstr "Taj Mahal"
 
 #: activities/explore_monuments/resource/board/board1.qml:109
 msgctxt "board1|"
 msgid "The 7 Wonders of World."
-msgstr ""
+msgstr "7 divů světa"
 
 #: activities/explore_monuments/resource/board/board1.qml:112
 msgctxt "board1|"
@@ -2927,7 +2945,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:54
 msgctxt "board2|"
 msgid "Taj Mahal"
-msgstr ""
+msgstr "Taj Mahal"
 
 #: activities/explore_monuments/resource/board/board2.qml:52
 msgctxt "board2|"
@@ -3521,7 +3539,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board5.qml:120
 msgctxt "board5|"
 msgid "Statue of Liberty"
-msgstr ""
+msgstr "Socha svobody"
 
 #: activities/explore_monuments/resource/board/board5.qml:118
 msgctxt "board5|"
@@ -3646,13 +3664,13 @@ msgstr "Klikni na místo, kde se nachází daná pyramida."
 #: activities/explore_world_animals/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Explore World Animals"
-msgstr ""
+msgstr "Prozkoumej divoká zvířata"
 
 #: activities/explore_world_animals/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
 "Learn about world animals, interesting facts and their location on a map."
-msgstr ""
+msgstr "Nauč se divoká zvířata, zajímavé údaje a kde žijí"
 
 #: activities/explore_world_animals/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
@@ -3668,12 +3686,19 @@ msgid ""
 "animal that matches the text. When you have matched all texts correctly, you "
 "win!\n"
 msgstr ""
+"Ve hře jsou dvě úrovně\n"
+"\n"
+"V první úrovni hráči zkoumají zvířata na obrazovce. Zmáčkni otazník a dozvi "
+"se, jak se zvíře jmenuje a jak vypadá. Nauč se to, protože se tvoje znalosti "
+"ověří ve druhé úrovni!\n"
+"V druhé úrovni vyber zvíře podle napsaného textu. Když správně rozpoznáš "
+"všechny zvířata, vyhraješ! \n"
 
 #: activities/explore_world_animals/resource/board/board1.qml:30
 #: activities/explore_world_animals/resource/board/board1.qml:33
 msgctxt "board1|"
 msgid "Jaguar"
-msgstr ""
+msgstr "Jaguár"
 
 #: activities/explore_world_animals/resource/board/board1.qml:31
 msgctxt "board1|"
@@ -3686,7 +3711,7 @@ msgstr ""
 #: activities/explore_world_animals/resource/board/board1.qml:44
 msgctxt "board1|"
 msgid "Hedgehog"
-msgstr ""
+msgstr "Ježek"
 
 #: activities/explore_world_animals/resource/board/board1.qml:42
 msgctxt "board1|"
@@ -3695,12 +3720,15 @@ msgid ""
 "them as useful pets. When in danger, they will curl up into a ball and stick "
 "up their coat of sharp spines."
 msgstr ""
+"Ježci jedí malá zvířata jako žáby a hmyz, takže je mnoho lidí považuje za "
+"užitečná. Jsou-li ohrožení, stočí se do klubíčka a nastraží svůj kabát plný "
+"bodlinek."
 
 #: activities/explore_world_animals/resource/board/board1.qml:52
 #: activities/explore_world_animals/resource/board/board1.qml:55
 msgctxt "board1|"
 msgid "Giraffe"
-msgstr ""
+msgstr "Žirafa"
 
 #: activities/explore_world_animals/resource/board/board1.qml:53
 msgctxt "board1|"
@@ -3708,37 +3736,42 @@ msgid ""
 "The giraffe lives in Africa and is the tallest mammal in the world. Just "
 "their legs, which are usually 1.8 meters long, are taller than most humans!"
 msgstr ""
+"Žirafa žije v Africe a je nejvyšším savcem na světě. Samotné jejich nohy, "
+"které jsou typicky 1.8 metrů dlouhé, jsou delší než většina lidí!"
 
 #: activities/explore_world_animals/resource/board/board1.qml:63
 #: activities/explore_world_animals/resource/board/board1.qml:66
 msgctxt "board1|"
 msgid "Bison"
-msgstr ""
+msgstr "Bizon"
 
 #: activities/explore_world_animals/resource/board/board1.qml:64
 msgctxt "board1|"
 msgid ""
 "Bison live on the plains of North America and were hunted by the Native "
 "Americans for food."
-msgstr ""
+msgstr "Bizon žije na plání Severní Ameriky a byl loven Indiány pro jídlo."
 
 #: activities/explore_world_animals/resource/board/board1.qml:74
 #: activities/explore_world_animals/resource/board/board1.qml:77
 msgctxt "board1|"
 msgid "Narwhal"
-msgstr ""
+msgstr "Narval"
 
 #: activities/explore_world_animals/resource/board/board1.qml:75
+#, fuzzy
 msgctxt "board1|"
 msgid ""
 "Narwhals are whales that live in the Arctic Ocean and have long tusks. These "
 "tusks remind many people of the mythical unicorn's horn."
 msgstr ""
+"Narvalové jsou velryby žijící v Artktickém Oceánu mající dlouhé rohy. Tyto "
+"rohy připomínají mnoha lidem rohy bájných jednorožců."
 
 #: activities/explore_world_animals/resource/board/board1.qml:87
 msgctxt "board1|"
 msgid "Explore exotic animals from around the world."
-msgstr ""
+msgstr "Prozkoumej exotická zvířata z celého světa."
 
 #: activities/explore_world_animals/resource/board/board1.qml:90
 msgctxt "board1|"
@@ -3748,7 +3781,7 @@ msgstr "Klikni na místo, kde zvíře žije."
 #: activities/explore_world_music/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Explore World Music"
-msgstr ""
+msgstr "Prozkoumej světovou hudbu"
 
 #: activities/explore_world_music/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -3759,7 +3792,7 @@ msgstr "Nauč se něco o světové hudbě."
 msgctxt "ActivityInfo|"
 msgid ""
 "Develop a better understanding of the variety of music present in the world"
-msgstr ""
+msgstr "Nauč se porozumět různorodosti hudby na světě"
 
 #: activities/explore_world_music/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -3785,12 +3818,13 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Images from http://commons.wikimedia.org/wiki, http://archive.org"
 msgstr ""
+"Obrázky pochází z http://commons.wikimedia.org/wiki, http://archive.org"
 
 #: activities/explore_world_music/resource/board/board1.qml:31
 #: activities/explore_world_music/resource/board/board1.qml:35
 msgctxt "board1|"
 msgid "Australia"
-msgstr ""
+msgstr "Austrálie"
 
 #: activities/explore_world_music/resource/board/board1.qml:32
 msgctxt "board1|"
@@ -3804,20 +3838,24 @@ msgstr ""
 #: activities/explore_world_music/resource/board/board1.qml:47
 msgctxt "board1|"
 msgid "Africa"
-msgstr ""
+msgstr "Afrika"
 
 #: activities/explore_world_music/resource/board/board1.qml:44
+#, fuzzy
 msgctxt "board1|"
 msgid ""
 "Music is a part of everyday life in Africa. African music features a great "
 "variety of drums, and they believe it is a sacred and magical instrument."
 msgstr ""
+"Hudba je součástí každodenního života v Africe. Africká hudba zahrnuje velké "
+"množství rozličných bubnů a Afričani věří, že to je posvátný a magický "
+"nástroj."
 
 #: activities/explore_world_music/resource/board/board1.qml:55
 #: activities/explore_world_music/resource/board/board1.qml:59
 msgctxt "board1|"
 msgid "Middle East"
-msgstr ""
+msgstr "Střední východ"
 
 #: activities/explore_world_music/resource/board/board1.qml:56
 msgctxt "board1|"
@@ -3826,12 +3864,15 @@ msgid ""
 "played to call worshipers to prayer. The lute is an instrument invented "
 "thousands of years ago and still in use today."
 msgstr ""
+"Hudba je velmi důležitou součástí kultury Středního východu. Specifické "
+"písně se hrají pro přivolání věřících k modlitbě. Flétna je nástroj "
+"vynalezený před tisícovkami let a stále se na ni hraje."
 
 #: activities/explore_world_music/resource/board/board1.qml:67
 #: activities/explore_world_music/resource/board/board1.qml:71
 msgctxt "board1|"
 msgid "Japan"
-msgstr ""
+msgstr "Japonsko"
 
 #: activities/explore_world_music/resource/board/board1.qml:68
 msgctxt "board1|"
@@ -3840,26 +3881,32 @@ msgid ""
 "to scare enemies in battle. It is very loud, and performances are very "
 "exciting with crowds cheering and performers yelling!"
 msgstr ""
+"Taiko bubnování pochází z Japonska. Tento typ bubnování se původně používal "
+"pro vystrašení protivníků v boji. Je velmi hlasité a výstupy jsou velmi "
+"vzrušující, když obecenstvo se usmívá a vystupující křičí!"
 
 #: activities/explore_world_music/resource/board/board1.qml:79
 #: activities/explore_world_music/resource/board/board1.qml:83
 msgctxt "board1|"
 msgid "Scotland and Ireland"
-msgstr ""
+msgstr "Skotsko a Irsko"
 
 #: activities/explore_world_music/resource/board/board1.qml:80
+#, fuzzy
 msgctxt "board1|"
 msgid ""
 "Folk music of this region is called celtic music, often incorporates a "
 "narrative poem or story. Typical instruments include bagpipes, fiddles, "
 "flutes, harps, and accordions."
 msgstr ""
+"Folková hudbu této oblasti se nazývá keltská hudba, často vyprávějící báseň "
+"nebo příběh. Běžné nástroje zahrnují dudy, housle, flétny, harfy a akordeóny."
 
 #: activities/explore_world_music/resource/board/board1.qml:91
 #: activities/explore_world_music/resource/board/board1.qml:95
 msgctxt "board1|"
 msgid "Italy"
-msgstr ""
+msgstr "Itálie"
 
 #: activities/explore_world_music/resource/board/board1.qml:92
 msgctxt "board1|"
@@ -3868,12 +3915,16 @@ msgid ""
 "a story by acting and singing. Opera singers, both male and female, learn "
 "special techniques to sing operas."
 msgstr ""
+"Itálie je věhlasná svou operou. Opera je hudební divadlo kde herci vyprávějí "
+"příběh hraním a zpěvem. Operní zpěváci a zpěvačky se učí zvláštním technikám "
+"pro zpívání opery."
 
 #: activities/explore_world_music/resource/board/board1.qml:103
 #: activities/explore_world_music/resource/board/board1.qml:107
+#, fuzzy
 msgctxt "board1|"
 msgid "European Classical Music"
-msgstr ""
+msgstr "Evropská klasická hudba"
 
 #: activities/explore_world_music/resource/board/board1.qml:104
 msgctxt "board1|"
@@ -3886,7 +3937,7 @@ msgstr ""
 #: activities/explore_world_music/resource/board/board1.qml:119
 msgctxt "board1|"
 msgid "Mexico"
-msgstr ""
+msgstr "Mexiko"
 
 #: activities/explore_world_music/resource/board/board1.qml:116
 msgctxt "board1|"
@@ -3895,12 +3946,15 @@ msgid ""
 "and violins. These bands play for many occasions, including weddings and "
 "parties."
 msgstr ""
+"Mariachi je slavný druh mexické hudby. Zahrnuje kytary, trumpety a basy. "
+"Kapely hrají při mnoha příležitostech včetně svateb a oslav."
 
 #: activities/explore_world_music/resource/board/board1.qml:127
 #: activities/explore_world_music/resource/board/board1.qml:131
+#, fuzzy
 msgctxt "board1|"
 msgid "United States of America"
-msgstr ""
+msgstr "Spojené státy americké"
 
 #: activities/explore_world_music/resource/board/board1.qml:128
 msgctxt "board1|"
@@ -3908,11 +3962,14 @@ msgid ""
 "USA also has a wide variety of musical genres, but perhaps it is most famous "
 "for rock n' roll music. This music features vocalists, guitars, and drums."
 msgstr ""
+"Ve Spojených státech amerických existuje velké množství hudebních žánrů, ale "
+"nejznámější je patrně rock n’ roll. Tato hudba zahrnuje zpěváky, kytary a "
+"bicí."
 
 #: activities/explore_world_music/resource/board/board1.qml:141
 msgctxt "board1|"
 msgid "Explore world music! Click on the suitcases."
-msgstr ""
+msgstr "Prozkoumej světovou hudbu! Klikej na kufry."
 
 #: activities/explore_world_music/resource/board/board1.qml:144
 msgctxt "board1|"
