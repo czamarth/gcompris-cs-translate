@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-10 17:19+0200\n"
+"PO-Revision-Date: 2016-05-10 17:38+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -3989,7 +3989,7 @@ msgstr "Hra patnáct"
 #: activities/fifteen/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Move each item to recreate the image."
-msgstr ""
+msgstr "Pohni každým políčkem pro vytvoření obrazu."
 
 #: activities/fifteen/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -3997,6 +3997,8 @@ msgid ""
 "Click or drag on any pieces that has a free block beside it, and it will be "
 "swapped with the empty one."
 msgstr ""
+"Klikni nebo přetáhni libovolné políčko, které má vedle sebe volné políčko a "
+"tím ho přemísti na volné."
 
 #: activities/followline/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4004,9 +4006,10 @@ msgid "Control the hose-pipe"
 msgstr "Ovládej hadici"
 
 #: activities/followline/ActivityInfo.qml:27
+#, fuzzy
 msgctxt "ActivityInfo|"
 msgid "The fireman needs to stop the fire, but the hose is blocked."
-msgstr ""
+msgstr "Hasič potřebuje uhasit požár, ale hadice je ucpaná."
 
 #: activities/followline/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -4034,22 +4037,22 @@ msgstr "Pošli míč do branky"
 #: activities/football/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Kick the ball behind the goal keeper on the right"
-msgstr ""
+msgstr "Kopni míč za brankáře napravo."
 
 #: activities/football/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Drag a line from the ball, to set its speed and direction."
-msgstr ""
+msgstr "Nakresli čáru od míče pro nastavení jeho rychlosti a směru."
 
 #: activities/geo-country/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the region"
-msgstr ""
+msgstr "Najdi oblast"
 
 #: activities/geo-country/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
-msgstr ""
+msgstr "Chytni a přetáhni oblasti pro zobrazení celého státu."
 
 #: activities/geo-country/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
@@ -4060,14 +4063,16 @@ msgid ""
 msgstr ""
 
 #: activities/geo-country/resource/board/board10_0.qml:26
+#, fuzzy
 msgctxt "board10_0|"
 msgid "United States of America"
-msgstr ""
+msgstr "Spojené státy americké"
 
 #: activities/geo-country/resource/board/board10_1.qml:25
+#, fuzzy
 msgctxt "board10_1|"
 msgid "United States of America"
-msgstr ""
+msgstr "Spojené státy americké"
 
 #: activities/geo-country/resource/board/board11_0.qml:26
 msgctxt "board11_0|"
@@ -4107,22 +4112,22 @@ msgstr ""
 #: activities/geo-country/resource/board/board15_0.qml:26
 msgctxt "board15_0|"
 msgid "Northern Scotland"
-msgstr ""
+msgstr "Severní Skotsko"
 
 #: activities/geo-country/resource/board/board15_1.qml:25
 msgctxt "board15_1|"
 msgid "Southern Scotland"
-msgstr ""
+msgstr "Jižní Skotsko"
 
 #: activities/geo-country/resource/board/board15_2.qml:25
 msgctxt "board15_2|"
 msgid "Northern Scotland"
-msgstr ""
+msgstr "Severní Skotsko"
 
 #: activities/geo-country/resource/board/board15_3.qml:25
 msgctxt "board15_3|"
 msgid "Southern Scotland"
-msgstr ""
+msgstr "Jižní Skotsko"
 
 #: activities/geo-country/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
@@ -4172,7 +4177,7 @@ msgstr ""
 #: activities/geo-country/resource/board/board8_0.qml:25
 msgctxt "board8_0|"
 msgid "Districts of Canada"
-msgstr ""
+msgstr "Kanadské provincie"
 
 #: activities/geo-country/resource/board/board9_0.qml:25
 msgctxt "board9_0|"
@@ -4182,208 +4187,208 @@ msgstr ""
 #: activities/geography/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the countries"
-msgstr ""
+msgstr "Najdi státy"
 
 #: activities/geography/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to redraw the whole map"
-msgstr ""
+msgstr "Chytni a přetáhni položky pro zobrazení celé mapy."
 
 #: activities/geography/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
 msgid "Asia"
-msgstr ""
+msgstr "Asie"
 
 #: activities/geography/resource/board/board10_0.qml:33
 msgctxt "board10_0|"
 msgid "Russia"
-msgstr ""
+msgstr "Rusko"
 
 #: activities/geography/resource/board/board10_0.qml:39
 msgctxt "board10_0|"
 msgid "Mongolia"
-msgstr ""
+msgstr "Mongolsko"
 
 #: activities/geography/resource/board/board10_0.qml:45
 msgctxt "board10_0|"
 msgid "Japan"
-msgstr ""
+msgstr "Japonsko"
 
 #: activities/geography/resource/board/board10_0.qml:51
 msgctxt "board10_0|"
 msgid "North Korea"
-msgstr ""
+msgstr "Severní Korea"
 
 #: activities/geography/resource/board/board10_0.qml:57
 msgctxt "board10_0|"
 msgid "South Korea"
-msgstr ""
+msgstr "Jižní Korea"
 
 #: activities/geography/resource/board/board10_0.qml:63
 msgctxt "board10_0|"
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Kazachstán"
 
 #: activities/geography/resource/board/board10_0.qml:69
 msgctxt "board10_0|"
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Uzbekistán"
 
 #: activities/geography/resource/board/board10_0.qml:75
 msgctxt "board10_0|"
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 #: activities/geography/resource/board/board10_0.qml:81
 msgctxt "board10_0|"
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 #: activities/geography/resource/board/board10_0.qml:87
 msgctxt "board10_0|"
 msgid "Cambodia"
-msgstr ""
+msgstr "Kambodža"
 
 #: activities/geography/resource/board/board10_0.qml:93
 msgctxt "board10_0|"
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #: activities/geography/resource/board/board10_0.qml:99
 msgctxt "board10_0|"
 msgid "Thailand"
-msgstr ""
+msgstr "Thajsko"
 
 #: activities/geography/resource/board/board10_0.qml:105
 msgctxt "board10_0|"
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Srí Lanka"
 
 #: activities/geography/resource/board/board10_0.qml:111
 msgctxt "board10_0|"
 msgid "China"
-msgstr ""
+msgstr "Čína"
 
 #: activities/geography/resource/board/board10_0.qml:117
 msgctxt "board10_0|"
 msgid "India"
-msgstr ""
+msgstr "Indie"
 
 #: activities/geography/resource/board/board10_0.qml:123
 msgctxt "board10_0|"
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bangladéš"
 
 #: activities/geography/resource/board/board10_0.qml:129
 msgctxt "board10_0|"
 msgid "Bhutan"
-msgstr ""
+msgstr "Bútán"
 
 #: activities/geography/resource/board/board10_0.qml:135
 msgctxt "board10_0|"
 msgid "Nepal"
-msgstr ""
+msgstr "Nepál"
 
 #: activities/geography/resource/board/board10_0.qml:141
 msgctxt "board10_0|"
 msgid "Pakistan"
-msgstr ""
+msgstr "Pákistán"
 
 #: activities/geography/resource/board/board10_0.qml:147
 msgctxt "board10_0|"
 msgid "Myanmar"
-msgstr ""
+msgstr "Myanmar"
 
 #: activities/geography/resource/board/board10_0.qml:153
 msgctxt "board10_0|"
 msgid "Philippines"
-msgstr ""
+msgstr "Filipíny"
 
 #: activities/geography/resource/board/board10_0.qml:159
 msgctxt "board10_0|"
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonésie"
 
 #: activities/geography/resource/board/board10_0.qml:165
 msgctxt "board10_0|"
 msgid "Malaysia"
-msgstr ""
+msgstr "Malajsie"
 
 #: activities/geography/resource/board/board10_0.qml:171
 msgctxt "board10_0|"
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afgánistán"
 
 #: activities/geography/resource/board/board10_0.qml:177
 msgctxt "board10_0|"
 msgid "Tajikistan"
-msgstr ""
+msgstr "Tádžikistán"
 
 #: activities/geography/resource/board/board10_0.qml:183
 msgctxt "board10_0|"
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Kyrgystán"
 
 #: activities/geography/resource/board/board10_0.qml:189
 msgctxt "board10_0|"
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Turkmenistán"
 
 #: activities/geography/resource/board/board10_0.qml:195
 msgctxt "board10_0|"
 msgid "Iran"
-msgstr ""
+msgstr "Irán"
 
 #: activities/geography/resource/board/board10_0.qml:201
 msgctxt "board10_0|"
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Ázerbajdžán"
 
 #. Translators: Strip Asia| and translate only Georgia
 #: activities/geography/resource/board/board10_0.qml:208
 msgctxt "board10_0|"
 msgid "Asia|Georgia"
-msgstr ""
+msgstr "Georgia"
 
 #: activities/geography/resource/board/board10_0.qml:214
 msgctxt "board10_0|"
 msgid "Turkey"
-msgstr ""
+msgstr "Turecko"
 
 #: activities/geography/resource/board/board10_0.qml:220
 msgctxt "board10_0|"
 msgid "Syria"
-msgstr ""
+msgstr "Sýrie"
 
 #: activities/geography/resource/board/board10_0.qml:226
 msgctxt "board10_0|"
 msgid "Iraq"
-msgstr ""
+msgstr "Irák"
 
 #: activities/geography/resource/board/board10_0.qml:232
 msgctxt "board10_0|"
 msgid "Jordan"
-msgstr ""
+msgstr "Jordánsko"
 
 #: activities/geography/resource/board/board10_0.qml:238
 msgctxt "board10_0|"
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Saudská Arábie"
 
 #: activities/geography/resource/board/board10_0.qml:244
 msgctxt "board10_0|"
 msgid "Yemen"
-msgstr ""
+msgstr "Yemen"
 
 #: activities/geography/resource/board/board10_0.qml:250
 msgctxt "board10_0|"
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Spojené Arabské Emiráty"
 
 #: activities/geography/resource/board/board10_0.qml:256
 msgctxt "board10_0|"
 msgid "Oman"
-msgstr ""
+msgstr "Omán"
 
 #: activities/geography/resource/board/board11_0.qml:25
 msgctxt "board11_0|"
@@ -4503,37 +4508,37 @@ msgstr ""
 #: activities/geography/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Continents"
-msgstr ""
+msgstr "Kontinenty"
 
 #: activities/geography/resource/board/board1_0.qml:34
 msgctxt "board1_0|"
 msgid "Oceania"
-msgstr ""
+msgstr "Oceánie"
 
 #: activities/geography/resource/board/board1_0.qml:41
 msgctxt "board1_0|"
 msgid "Europe"
-msgstr ""
+msgstr "Evropa"
 
 #: activities/geography/resource/board/board1_0.qml:48
 msgctxt "board1_0|"
 msgid "Asia"
-msgstr ""
+msgstr "Asie"
 
 #: activities/geography/resource/board/board1_0.qml:55
 msgctxt "board1_0|"
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktida"
 
 #: activities/geography/resource/board/board1_0.qml:62
 msgctxt "board1_0|"
 msgid "America"
-msgstr ""
+msgstr "Amerika"
 
 #: activities/geography/resource/board/board1_0.qml:69
 msgctxt "board1_0|"
 msgid "Africa"
-msgstr ""
+msgstr "Afrika"
 
 #: activities/geography/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
@@ -5991,122 +5996,122 @@ msgstr ""
 #: activities/imagename/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Drag and Drop each item onto its name"
-msgstr ""
+msgstr "Chytni a přetáhni každou položku na její jméno"
 
 #: activities/imagename/resource/board/board1_0.qml:71
 msgctxt "board1_0|"
 msgid "mail box"
-msgstr ""
+msgstr "poštovní schránka"
 
 #: activities/imagename/resource/board/board1_0.qml:78
 msgctxt "board1_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "plující loď"
 
 #: activities/imagename/resource/board/board1_0.qml:85
 msgctxt "board1_0|"
 msgid "lamp"
-msgstr ""
+msgstr "lampa"
 
 #: activities/imagename/resource/board/board1_0.qml:92
 msgctxt "board1_0|"
 msgid "postcard"
-msgstr ""
+msgstr "pohlednice"
 
 #: activities/imagename/resource/board/board1_0.qml:99
 msgctxt "board1_0|"
 msgid "fishing boat"
-msgstr ""
+msgstr "rybářská loď"
 
 #: activities/imagename/resource/board/board1_0.qml:106
 msgctxt "board1_0|"
 msgid "bulb"
-msgstr ""
+msgstr "žárovka"
 
 #: activities/imagename/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "bottle"
-msgstr ""
+msgstr "láhev"
 
 #: activities/imagename/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "glass"
-msgstr ""
+msgstr "sklenice"
 
 #: activities/imagename/resource/board/board2_0.qml:84
 msgctxt "board2_0|"
 msgid "egg"
-msgstr ""
+msgstr "vejce"
 
 #: activities/imagename/resource/board/board2_0.qml:91
 msgctxt "board2_0|"
 msgid "eggcup"
-msgstr ""
+msgstr "stojánek na vajíčko"
 
 #: activities/imagename/resource/board/board2_0.qml:98
 msgctxt "board2_0|"
 msgid "flower"
-msgstr ""
+msgstr "květina"
 
 #: activities/imagename/resource/board/board2_0.qml:105
 msgctxt "board2_0|"
 msgid "vase"
-msgstr ""
+msgstr "váza"
 
 #: activities/imagename/resource/board/board3_0.qml:70
 msgctxt "board3_0|"
 msgid "rocket"
-msgstr ""
+msgstr "raketa"
 
 #: activities/imagename/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "star"
-msgstr ""
+msgstr "hvězda"
 
 #: activities/imagename/resource/board/board3_0.qml:84
 msgctxt "board3_0|"
 msgid "sofa"
-msgstr ""
+msgstr "pohovka"
 
 #: activities/imagename/resource/board/board3_0.qml:91
 msgctxt "board3_0|"
 msgid "house"
-msgstr ""
+msgstr "dům"
 
 #: activities/imagename/resource/board/board3_0.qml:98
 msgctxt "board3_0|"
 msgid "light house"
-msgstr ""
+msgstr "maják"
 
 #: activities/imagename/resource/board/board3_0.qml:105
 msgctxt "board3_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "plující loď"
 
 #: activities/imagename/resource/board/board4_0.qml:70
 msgctxt "board4_0|"
 msgid "apple"
-msgstr ""
+msgstr "jablko"
 
 #: activities/imagename/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "tree"
-msgstr ""
+msgstr "strom"
 
 #: activities/imagename/resource/board/board4_0.qml:84
 msgctxt "board4_0|"
 msgid "bicycle"
-msgstr ""
+msgstr "bicykl"
 
 #: activities/imagename/resource/board/board4_0.qml:91
 msgctxt "board4_0|"
 msgid "car"
-msgstr ""
+msgstr "auto"
 
 #: activities/imagename/resource/board/board4_0.qml:98
 msgctxt "board4_0|"
 msgid "carrot"
-msgstr ""
+msgstr "mrkev"
 
 #: activities/imagename/resource/board/board4_0.qml:105
 msgctxt "board4_0|"
@@ -6116,27 +6121,27 @@ msgstr ""
 #: activities/imagename/resource/board/board5_0.qml:70
 msgctxt "board5_0|"
 msgid "pencil"
-msgstr ""
+msgstr "tužka"
 
 #: activities/imagename/resource/board/board5_0.qml:77
 msgctxt "board5_0|"
 msgid "postcard"
-msgstr ""
+msgstr "pohlednice"
 
 #: activities/imagename/resource/board/board5_0.qml:84
 msgctxt "board5_0|"
 msgid "tree"
-msgstr ""
+msgstr "strom"
 
 #: activities/imagename/resource/board/board5_0.qml:91
 msgctxt "board5_0|"
 msgid "star"
-msgstr ""
+msgstr "hvězda"
 
 #: activities/imagename/resource/board/board5_0.qml:98
 msgctxt "board5_0|"
 msgid "truck"
-msgstr ""
+msgstr "náklaďák"
 
 #: activities/imagename/resource/board/board5_0.qml:105
 msgctxt "board5_0|"
@@ -6146,7 +6151,7 @@ msgstr "van"
 #: activities/imagename/resource/board/board6_0.qml:70
 msgctxt "board6_0|"
 msgid "castle"
-msgstr ""
+msgstr "hrad"
 
 #: activities/imagename/resource/board/board6_0.qml:77
 msgctxt "board6_0|"
