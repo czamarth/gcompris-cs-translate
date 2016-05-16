@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-10 17:38+0200\n"
+"PO-Revision-Date: 2016-05-16 20:36+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -6116,7 +6116,7 @@ msgstr "mrkev"
 #: activities/imagename/resource/board/board4_0.qml:105
 msgctxt "board4_0|"
 msgid "grater"
-msgstr ""
+msgstr "struhadlo"
 
 #: activities/imagename/resource/board/board5_0.qml:70
 msgctxt "board5_0|"
@@ -6156,57 +6156,57 @@ msgstr "hrad"
 #: activities/imagename/resource/board/board6_0.qml:77
 msgctxt "board6_0|"
 msgid "crown"
-msgstr ""
+msgstr "koruna"
 
 #: activities/imagename/resource/board/board6_0.qml:84
 msgctxt "board6_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "plachetnice"
 
 #: activities/imagename/resource/board/board6_0.qml:91
 msgctxt "board6_0|"
 msgid "flag"
-msgstr ""
+msgstr "vlajka"
 
 #: activities/imagename/resource/board/board6_0.qml:98
 msgctxt "board6_0|"
 msgid "racket"
-msgstr ""
+msgstr "raketa"
 
 #: activities/imagename/resource/board/board6_0.qml:105
 msgctxt "board6_0|"
 msgid "ball"
-msgstr ""
+msgstr "míč"
 
 #: activities/imagename/resource/board/board7_0.qml:70
 msgctxt "board7_0|"
 msgid "tree"
-msgstr ""
+msgstr "strom"
 
 #: activities/imagename/resource/board/board7_0.qml:77
 msgctxt "board7_0|"
 msgid "mail box"
-msgstr ""
+msgstr "poštovní schránka"
 
 #: activities/imagename/resource/board/board7_0.qml:84
 msgctxt "board7_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "plachetnice"
 
 #: activities/imagename/resource/board/board7_0.qml:91
 msgctxt "board7_0|"
 msgid "bulb"
-msgstr ""
+msgstr "žárovka"
 
 #: activities/imagename/resource/board/board7_0.qml:98
 msgctxt "board7_0|"
 msgid "bottle"
-msgstr ""
+msgstr "láhev"
 
 #: activities/imagename/resource/board/board7_0.qml:105
 msgctxt "board7_0|"
 msgid "flower"
-msgstr ""
+msgstr "květina"
 
 #: activities/instruments/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6388,24 +6388,24 @@ msgstr "Najdi tubu"
 #: activities/intro_gravity/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Intro gravity"
-msgstr ""
+msgstr "Úvod do gravitace"
 
 #: activities/intro_gravity/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Introduction to the concept of gravity"
-msgstr ""
+msgstr "Úvod do pojmu gravitace"
 
 #: activities/intro_gravity/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid ""
 "Maintain the spaceship in the middle without crashing into the planets or "
 "the asteroids"
-msgstr ""
+msgstr "Udrž vesmírnou loď uprostřed bez vražení do planet nebo asteroidů."
 
 #: activities/intro_gravity/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Follow the instructions when you run the activity."
-msgstr ""
+msgstr "Po spuštění hry následujte instrukce."
 
 #: activities/intro_gravity/IntroGravity.qml:124
 msgctxt "IntroGravity|"
@@ -6449,7 +6449,7 @@ msgstr ""
 #: activities/land_safe/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Land Safe"
-msgstr ""
+msgstr "Přistaň bezpečně"
 
 #: activities/land_safe/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6490,37 +6490,37 @@ msgstr ""
 #: activities/land_safe/land_safe.js:48 activities/land_safe/land_safe.js:71
 msgctxt "land_safe|"
 msgid "Ceres"
-msgstr ""
+msgstr "Ceres"
 
 #: activities/land_safe/land_safe.js:51 activities/land_safe/land_safe.js:74
 msgctxt "land_safe|"
 msgid "Pluto"
-msgstr ""
+msgstr "Pluto"
 
 #: activities/land_safe/land_safe.js:54 activities/land_safe/land_safe.js:77
 msgctxt "land_safe|"
 msgid "Titan"
-msgstr ""
+msgstr "Titan"
 
 #: activities/land_safe/land_safe.js:57 activities/land_safe/land_safe.js:80
 msgctxt "land_safe|"
 msgid "Moon"
-msgstr ""
+msgstr "Měsíc"
 
 #: activities/land_safe/land_safe.js:60 activities/land_safe/land_safe.js:83
 msgctxt "land_safe|"
 msgid "Mars"
-msgstr ""
+msgstr "Mars"
 
 #: activities/land_safe/land_safe.js:63 activities/land_safe/land_safe.js:86
 msgctxt "land_safe|"
 msgid "Venus"
-msgstr ""
+msgstr "Venuše"
 
 #: activities/land_safe/land_safe.js:66 activities/land_safe/land_safe.js:89
 msgctxt "land_safe|"
 msgid "Earth"
-msgstr ""
+msgstr "Země"
 
 #: activities/land_safe/land_safe.js:95
 msgctxt "land_safe|"
@@ -6530,6 +6530,10 @@ msgid ""
 "platform.<br/>The landing platform turns green when the velocity is safe to "
 "land."
 msgstr ""
+"Použij klávesy nahoru a dolů pro ovládání síly tahu.<br>Použijte klávesy "
+"vlevo a vpravo pro ovládání směru.<br/>Musíš řídit Tuxovu loď směrem k "
+"přestávací plošině.<br/>Přistávací plošina bude zelená, když budeš mít "
+"správnou rychlost pro bezpečné přistání."
 
 #: activities/land_safe/land_safe.js:100
 msgctxt "land_safe|"
@@ -6543,41 +6547,41 @@ msgstr ""
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Fuel: %1"
-msgstr ""
+msgstr "Palivo: %1"
 
 #: activities/land_safe/LandSafe.qml:513
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Altitude: %1"
-msgstr ""
+msgstr "Nadmořská výška: %1"
 
 #: activities/land_safe/LandSafe.qml:524
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Velocity: %1"
-msgstr ""
+msgstr "Rychlost: %1"
 
 #: activities/land_safe/LandSafe.qml:537
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Acceleration: %1"
-msgstr ""
+msgstr "Zrychlení: %1"
 
 #: activities/land_safe/LandSafe.qml:563
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Gravity: %1"
-msgstr ""
+msgstr "Gravitace: %1"
 
 #: activities/lang/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Enrich your vocabulary"
-msgstr ""
+msgstr "Obohať si slovní zásobu"
 
 #: activities/lang/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Complete language learning activities."
-msgstr ""
+msgstr "Dokonči aktivity pro učení jazyka"
 
 #: activities/lang/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
@@ -6624,12 +6628,12 @@ msgstr ""
 #: activities/lang/Lang.qml:183
 msgctxt "Lang|"
 msgid "Select your locale"
-msgstr ""
+msgstr "Vyberte národní prostředí"
 
 #: activities/lang/Lang.qml:242
 msgctxt "Lang|"
 msgid "other"
-msgstr ""
+msgstr "další"
 
 #: activities/lang/Lang.qml:243
 msgctxt "Lang|"
@@ -6639,7 +6643,7 @@ msgstr "činnost"
 #: activities/lang/Lang.qml:243
 msgctxt "Lang|"
 msgid "adjective"
-msgstr ""
+msgstr "přídavné jméno"
 
 #: activities/lang/Lang.qml:244
 msgctxt "Lang|"
@@ -6649,22 +6653,22 @@ msgstr "barva"
 #: activities/lang/Lang.qml:244
 msgctxt "Lang|"
 msgid "number"
-msgstr ""
+msgstr "číslo"
 
 #: activities/lang/Lang.qml:245
 msgctxt "Lang|"
 msgid "people"
-msgstr ""
+msgstr "lidé"
 
 #: activities/lang/Lang.qml:245
 msgctxt "Lang|"
 msgid "bodyparts"
-msgstr ""
+msgstr "části těla"
 
 #: activities/lang/Lang.qml:246
 msgctxt "Lang|"
 msgid "clothes"
-msgstr ""
+msgstr "oblečení"
 
 #: activities/lang/Lang.qml:246
 msgctxt "Lang|"
@@ -6674,42 +6678,42 @@ msgstr "emoce"
 #: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "job"
-msgstr ""
+msgstr "práce"
 
 #: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "sport"
-msgstr ""
+msgstr "sport"
 
 #: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "nature"
-msgstr ""
+msgstr "příroda"
 
 #: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "animal"
-msgstr ""
+msgstr "zvíře"
 
 #: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "fruit"
-msgstr ""
+msgstr "ovoce"
 
 #: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "plant"
-msgstr ""
+msgstr "rostlina"
 
 #: activities/lang/Lang.qml:250
 msgctxt "Lang|"
 msgid "vegetables"
-msgstr ""
+msgstr "zelenina"
 
 #: activities/lang/Lang.qml:250
 msgctxt "Lang|"
 msgid "object"
-msgstr ""
+msgstr "předmět"
 
 #: activities/lang/Lang.qml:251
 msgctxt "Lang|"
@@ -6719,22 +6723,22 @@ msgstr "konstrukce"
 #: activities/lang/Lang.qml:252
 msgctxt "Lang|"
 msgid "furniture"
-msgstr ""
+msgstr "nábytek"
 
 #: activities/lang/Lang.qml:252
 msgctxt "Lang|"
 msgid "houseware"
-msgstr ""
+msgstr "vybavení domu"
 
 #: activities/lang/Lang.qml:253
 msgctxt "Lang|"
 msgid "tool"
-msgstr ""
+msgstr "nástroj"
 
 #: activities/lang/Lang.qml:253
 msgctxt "Lang|"
 msgid "food"
-msgstr ""
+msgstr "jídlo"
 
 #: activities/leftright/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6810,7 +6814,7 @@ msgstr ""
 #: activities/louis-braille/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "The History of Louis Braille"
-msgstr ""
+msgstr "Historie Louis Braille"
 
 #: activities/louis-braille/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6951,12 +6955,12 @@ msgstr "Pro započetí hry klikni na klobouk"
 #: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: activities/magic-hat-plus/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -7052,12 +7056,12 @@ msgstr ""
 #: activities/mazeinvisible/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Invisible Maze"
-msgstr ""
+msgstr "Neviditelné bludiště"
 
 #: activities/mazeinvisible/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Guide Tux out of the invisible maze"
-msgstr ""
+msgstr "Vyveďte Tuxe ven z neviditelného bludiště"
 
 #: activities/mazeinvisible/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -7071,7 +7075,7 @@ msgstr ""
 #: activities/mazerelative/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Relative Maze"
-msgstr ""
+msgstr "Relativní bludiště"
 
 #: activities/mazerelative/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -7088,12 +7092,12 @@ msgstr ""
 #: activities/melody/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Melody"
-msgstr ""
+msgstr "Melodie"
 
 #: activities/melody/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Reproduce a sound sequence"
-msgstr ""
+msgstr "Reprodukuj zvukové řady"
 
 #: activities/melody/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -7103,7 +7107,7 @@ msgstr "Aktivita pro cvičení sluchu"
 #: activities/melody/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Move and click the mouse"
-msgstr ""
+msgstr "Hýbej a klikej myší"
 
 #: activities/melody/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -7746,7 +7750,7 @@ msgstr "Hlavní nabídka GCompris"
 #: activities/menu/ActivityInfo.qml:24
 msgctxt "ActivityInfo|"
 msgid "Select an activity to run it."
-msgstr ""
+msgstr "Vyber činnost pro její spuštění"
 
 #: activities/menu/ActivityInfo.qml:25
 msgctxt "ActivityInfo|"
@@ -7794,12 +7798,12 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:77
 msgctxt "ConfigurationItem|"
 msgid "You have the full version"
-msgstr ""
+msgstr "Máš plnou verzi"
 
 #: activities/menu/ConfigurationItem.qml:78
 msgctxt "ConfigurationItem|"
 msgid "Buy the full version"
-msgstr ""
+msgstr "Koupit plnou verzi"
 
 #: activities/menu/ConfigurationItem.qml:141
 msgctxt "ConfigurationItem|"
@@ -7811,7 +7815,7 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:163
 msgctxt "ConfigurationItem|"
 msgid "Enter your activation code"
-msgstr ""
+msgstr "Zadej aktivační kód"
 
 #: activities/menu/ConfigurationItem.qml:166
 msgctxt "ConfigurationItem|"
