@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-06-13 19:23+0200\n"
+"PO-Revision-Date: 2016-06-13 20:08+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -2342,23 +2342,23 @@ msgstr "Vincent van Gogh, Sklizeň - 1888"
 #: activities/details/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
 msgid "Vincent van Gogh, Cafe Terrace at Night - 1888"
-msgstr ""
+msgstr "Vincent van Gogh, Terasa kavárny v noci - 1888"
 
 #: activities/details/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
 msgid "Vincent van Gogh, The Night Café - 1888"
-msgstr ""
+msgstr "Vincent van Gogh, Noční kavárna - 1888"
 
 #: activities/details/resource/board/board8_0.qml:25
 msgctxt "board8_0|"
 msgid "Vincent van Gogh, Portrait of Pere Tanguy 1887-8"
-msgstr ""
+msgstr "Vincent van Gogh, Portrét Pere Tanguyi 1887-8"
 
 #: activities/details/resource/board/board9_0.qml:25
 msgctxt "board9_0|"
 msgid ""
 "Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
-msgstr ""
+msgstr "Katedrála Notre Dame de Paris na Île de la Cité v Paříži, Francie."
 
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2715,6 +2715,9 @@ msgid ""
 "removed and used to produce articles of clothing and blankets, among other "
 "things."
 msgstr ""
+"Ovce je savec dávající rouno vlny. Je to pasující se býložravec, chovaná pro "
+"vlnu, maso a mléko. Rouno může být ostříháno a použito mimojiné pro produkci "
+"oblečení a přikrývek."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:143
 msgctxt "board1|"
@@ -2750,7 +2753,7 @@ msgstr "Prozkoumej památky po celém světě."
 #: activities/explore_monuments/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "To learn about different monuments on the basis of their location."
-msgstr ""
+msgstr "Nauč se různé památky na základě jejich umístění."
 
 #: activities/explore_monuments/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -2814,7 +2817,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board1.qml:55
 msgctxt "board1|"
 msgid "Christ the Redeemer"
-msgstr ""
+msgstr "Kristus Spasitel"
 
 #: activities/explore_monuments/resource/board/board1.qml:53
 msgctxt "board1|"
@@ -2823,6 +2826,9 @@ msgid ""
 "Brazil. A symbol of Christianity across the world, the statue has also "
 "become a cultural icon of both Rio de Janeiro and Brazil."
 msgstr ""
+"Kristus Spasitel je socha ve stylu Art Deco v Riu de Janeiro, Brazílie. "
+"Symbol křesťanství pro celý svět, socha se také stala kulturní ikonou jak "
+"Ria de Janeiro tak Brazílie."
 
 #: activities/explore_monuments/resource/board/board1.qml:63
 #: activities/explore_monuments/resource/board/board1.qml:66
@@ -2867,7 +2873,6 @@ msgid "Petra"
 msgstr "Petra"
 
 #: activities/explore_monuments/resource/board/board1.qml:86
-#, fuzzy
 msgctxt "board1|"
 msgid ""
 "Petra is a historical and archaeological city in the southern Jordanian "
@@ -2875,7 +2880,12 @@ msgid ""
 "conduit system. Established possibly as early as 312 BC as the capital city "
 "of the Arab Nabataeans, it is a symbol of Jordan, as well as Jordan's most-"
 "visited tourist attraction."
-msgstr "Petra je historické a archeologické město v jižním Jordánsku "
+msgstr ""
+"Petra je historické a archeologické město v jižním Jordánsku  v guvernátu "
+"Ma'an, které je známý pro svou skalní architekturu a systém vodního "
+"postrubí. Založená snad již roku 312 před naším letopočtem jako hlavní město "
+"Arabských Nabatejců, je symbolem Jordánsko stejně jako nejčastěji "
+"navštěvovanou turistickou atrakcí."
 
 #: activities/explore_monuments/resource/board/board1.qml:96
 msgctxt "board1|"
@@ -2890,6 +2900,9 @@ msgid ""
 "the Mughal emperor Shah Jahan reigned to house the tomb of his favorite wife "
 "of three, Mumtaz Mahal."
 msgstr ""
+"Taj Mahal je mauzoleum z bílého mramoru, ležící na jižním břehu řeky Yamuna "
+"v indickém městě Agra.  Nechal ho vystavět v roce 1632 indický mogul "
+"Šáhdžahán na památku své předčasně zesnulé ženy Mumtaz Mahal."
 
 #: activities/explore_monuments/resource/board/board1.qml:99
 msgctxt "board1|"
@@ -2904,13 +2917,13 @@ msgstr "7 divů světa"
 #: activities/explore_monuments/resource/board/board1.qml:112
 msgctxt "board1|"
 msgid "Click on location where the given Monument is located."
-msgstr ""
+msgstr "Klikni na msto, kde se daná památka nachází."
 
 #: activities/explore_monuments/resource/board/board2.qml:29
 #: activities/explore_monuments/resource/board/board2.qml:32
 msgctxt "board2|"
 msgid "Golden Temple"
-msgstr ""
+msgstr "Zlatý chrám"
 
 #: activities/explore_monuments/resource/board/board2.qml:30
 msgctxt "board2|"
@@ -2929,7 +2942,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:43
 msgctxt "board2|"
 msgid "Hawa Mahal"
-msgstr ""
+msgstr "Hawa Mahal"
 
 #: activities/explore_monuments/resource/board/board2.qml:41
 msgctxt "board2|"
@@ -2955,12 +2968,15 @@ msgid ""
 "the Mughal emperor Shah Jahan reigned to house the tomb of his favorite wife "
 "of three, Mumtaz Mahal."
 msgstr ""
+"Taj Mahal je mauzoleum z bílého mramoru, ležící na jižním břehu řeky Yamuna "
+"v indickém městě Agra.  Nechal ho vystavět v roce 1632 indický mogul "
+"Šáhdžahán na památku své předčasně zesnulé ženy Mumtaz Mahal."
 
 #: activities/explore_monuments/resource/board/board2.qml:62
 #: activities/explore_monuments/resource/board/board2.qml:65
 msgctxt "board2|"
 msgid "Gateway of India"
-msgstr ""
+msgstr "Brána Indie"
 
 #: activities/explore_monuments/resource/board/board2.qml:63
 msgctxt "board2|"
@@ -2977,7 +2993,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:76
 msgctxt "board2|"
 msgid "Great Stupa"
-msgstr ""
+msgstr "Velká Stúpa"
 
 #: activities/explore_monuments/resource/board/board2.qml:74
 msgctxt "board2|"
@@ -3008,7 +3024,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:98
 msgctxt "board2|"
 msgid "Konark Sun Temple"
-msgstr ""
+msgstr "Sluneční chrám v Konáraku"
 
 #: activities/explore_monuments/resource/board/board2.qml:96
 msgctxt "board2|"
@@ -3017,12 +3033,15 @@ msgid ""
 "dedicated to the Sun god. Shaped like a giant chariot, the temple is known "
 "for the exquisite stone carvings that cover the entire structure."
 msgstr ""
+"Sluneční chrám v Konáraku je Hinduistický chrám z 13. století zasvěcený Bohu "
+"slunce. Má podobu obřího vozu, chrám je známý pro své vynikající kamenné, "
+"řezbářské zdobení."
 
 #: activities/explore_monuments/resource/board/board2.qml:106
 #: activities/explore_monuments/resource/board/board2.qml:109
 msgctxt "board2|"
 msgid "Mysore Palace"
-msgstr ""
+msgstr "Mysore palác"
 
 #: activities/explore_monuments/resource/board/board2.qml:107
 msgctxt "board2|"
@@ -3037,7 +3056,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:120
 msgctxt "board2|"
 msgid "Charminar"
-msgstr ""
+msgstr "Charminar"
 
 #: activities/explore_monuments/resource/board/board2.qml:118
 msgctxt "board2|"
@@ -3072,7 +3091,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:142
 msgctxt "board2|"
 msgid "Rang Ghar"
-msgstr ""
+msgstr "Zazvonil Ghar"
 
 #: activities/explore_monuments/resource/board/board2.qml:140
 msgctxt "board2|"
@@ -3102,18 +3121,18 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:163
 msgctxt "board2|"
 msgid "Monuments of India"
-msgstr ""
+msgstr "Indické památky"
 
 #: activities/explore_monuments/resource/board/board2.qml:166
 msgctxt "board2|"
 msgid "Click on location where the given Monument is located."
-msgstr ""
+msgstr "Klikni na msto, kde se daná památka nachází."
 
 #: activities/explore_monuments/resource/board/board3.qml:29
 #: activities/explore_monuments/resource/board/board3.qml:32
 msgctxt "board3|"
 msgid "Mont-Saint-Michel"
-msgstr ""
+msgstr "Mont-Saint-Michel"
 
 #: activities/explore_monuments/resource/board/board3.qml:30
 msgctxt "board3|"
@@ -3130,7 +3149,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:43
 msgctxt "board3|"
 msgid "Cité de Carcassonne"
-msgstr ""
+msgstr "Město Carcassonne"
 
 #: activities/explore_monuments/resource/board/board3.qml:41
 msgctxt "board3|"
@@ -3146,7 +3165,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:54
 msgctxt "board3|"
 msgid "Reims Cathedral"
-msgstr ""
+msgstr "Katedrála v Remeši"
 
 #: activities/explore_monuments/resource/board/board3.qml:52
 msgctxt "board3|"
@@ -3163,7 +3182,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:65
 msgctxt "board3|"
 msgid "Pont du Gard"
-msgstr ""
+msgstr "Pont du Gard"
 
 #: activities/explore_monuments/resource/board/board3.qml:63
 msgctxt "board3|"
@@ -3194,7 +3213,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:87
 msgctxt "board3|"
 msgid "Château de Chambord"
-msgstr ""
+msgstr "Zámek Chambord"
 
 #: activities/explore_monuments/resource/board/board3.qml:85
 msgctxt "board3|"
@@ -3210,7 +3229,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:98
 msgctxt "board3|"
 msgid "Rocamadour"
-msgstr ""
+msgstr "Rocamadour"
 
 #: activities/explore_monuments/resource/board/board3.qml:96
 msgctxt "board3|"
@@ -3227,7 +3246,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:109
 msgctxt "board3|"
 msgid "Palais des Papes"
-msgstr ""
+msgstr "Papežský palác"
 
 #: activities/explore_monuments/resource/board/board3.qml:107
 msgctxt "board3|"
@@ -3242,7 +3261,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:120
 msgctxt "board3|"
 msgid "Château de Chenonceau"
-msgstr ""
+msgstr "Zámek Chenonceau"
 
 #: activities/explore_monuments/resource/board/board3.qml:118
 msgctxt "board3|"
@@ -3259,7 +3278,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:131
 msgctxt "board3|"
 msgid "Eiffel Tower"
-msgstr ""
+msgstr "Eiffelova věž"
 
 #: activities/explore_monuments/resource/board/board3.qml:129
 msgctxt "board3|"
@@ -3272,18 +3291,18 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board3.qml:141
 msgctxt "board3|"
 msgid "Monuments of France"
-msgstr ""
+msgstr "Francouzské památky"
 
 #: activities/explore_monuments/resource/board/board3.qml:144
 msgctxt "board3|"
 msgid "Click on location where the given Monument is located."
-msgstr ""
+msgstr "Klikni na msto, kde se daná památka nachází."
 
 #: activities/explore_monuments/resource/board/board4.qml:29
 #: activities/explore_monuments/resource/board/board4.qml:32
 msgctxt "board4|"
 msgid "Neuschwanstein Castle"
-msgstr ""
+msgstr "Zámek Neuschwanstein"
 
 #: activities/explore_monuments/resource/board/board4.qml:30
 msgctxt "board4|"
@@ -3315,7 +3334,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board4.qml:54
 msgctxt "board4|"
 msgid "Brandenburg Gate"
-msgstr ""
+msgstr "Braniborská brána"
 
 #: activities/explore_monuments/resource/board/board4.qml:52
 msgctxt "board4|"
@@ -3332,7 +3351,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board4.qml:65
 msgctxt "board4|"
 msgid "Berlin Cathedral"
-msgstr ""
+msgstr "Berlínská katedrála"
 
 #: activities/explore_monuments/resource/board/board4.qml:63
 msgctxt "board4|"
@@ -3347,7 +3366,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board4.qml:76
 msgctxt "board4|"
 msgid "Schwerin Palace"
-msgstr ""
+msgstr "Schwerin palác"
 
 #: activities/explore_monuments/resource/board/board4.qml:74
 msgctxt "board4|"
@@ -3361,7 +3380,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board4.qml:87
 msgctxt "board4|"
 msgid "Aula Palatina"
-msgstr ""
+msgstr "Aula Palatina"
 
 #: activities/explore_monuments/resource/board/board4.qml:85
 msgctxt "board4|"
@@ -3376,7 +3395,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board4.qml:98
 msgctxt "board4|"
 msgid "Worms Cathedral"
-msgstr ""
+msgstr "Červi katedrála"
 
 #: activities/explore_monuments/resource/board/board4.qml:96
 msgctxt "board4|"
@@ -3390,18 +3409,18 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board4.qml:108
 msgctxt "board4|"
 msgid "Monuments of Germany"
-msgstr ""
+msgstr "Německé památky"
 
 #: activities/explore_monuments/resource/board/board4.qml:111
 msgctxt "board4|"
 msgid "Click on location where the given Monument is located."
-msgstr ""
+msgstr "Klikni na msto, kde se daná památka nachází."
 
 #: activities/explore_monuments/resource/board/board5.qml:29
 #: activities/explore_monuments/resource/board/board5.qml:32
 msgctxt "board5|"
 msgid "Cabrillo"
-msgstr ""
+msgstr "Cabrillo"
 
 #: activities/explore_monuments/resource/board/board5.qml:30
 msgctxt "board5|"
