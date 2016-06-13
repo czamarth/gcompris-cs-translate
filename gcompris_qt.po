@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-05-16 20:36+0200\n"
+"PO-Revision-Date: 2016-06-13 19:23+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Qt-Contexts: true\n"
 "POT-Creation-Date: \n"
 
@@ -772,7 +772,7 @@ msgstr "Chytej s helikoptérou mraky podle zadaného pořadí písmen"
 #: activities/alphabet-sequence/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Can decode letters"
-msgstr ""
+msgstr "Poznej písmena"
 
 #: activities/alphabet-sequence/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1664,7 +1664,7 @@ msgstr "1829 Stephensonova Lokomotiva Rocket"
 #: activities/chronos/resource/board/board5_0.qml:50
 msgctxt "board5_0|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 Cugnotův fardier"
 
 #: activities/chronos/resource/board/board5_0.qml:57
 msgctxt "board5_0|"
@@ -1679,17 +1679,17 @@ msgstr "Doprava"
 #: activities/chronos/resource/board/board5_1.qml:49
 msgctxt "board5_1|"
 msgid "1783 Montgolfier brothers' hot air balloon"
-msgstr ""
+msgstr "1783 Horkovzdušný balón Bratří Montgolfierů"
 
 #: activities/chronos/resource/board/board5_1.qml:56
 msgctxt "board5_1|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 Eole Clementa Adera"
 
 #: activities/chronos/resource/board/board5_1.qml:63
 msgctxt "board5_1|"
 msgid "1906 Paul Cornu First helicopter flight"
-msgstr ""
+msgstr "1906 První let helikoptérou Paula Cornu"
 
 #: activities/chronos/resource/board/board5_2.qml:25
 msgctxt "board5_2|"
@@ -1699,17 +1699,17 @@ msgstr "Doprava"
 #: activities/chronos/resource/board/board5_2.qml:49
 msgctxt "board5_2|"
 msgid "1791 Comte de Sivrac's Celerifere"
-msgstr ""
+msgstr "1791 Célérifère Comte de Sivrac"
 
 #: activities/chronos/resource/board/board5_2.qml:56
 msgctxt "board5_2|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 Cugnotův fardier"
 
 #: activities/chronos/resource/board/board5_2.qml:63
 msgctxt "board5_2|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 Eole Clementa Adera"
 
 #: activities/chronos/resource/board/board5_3.qml:25
 msgctxt "board5_3|"
@@ -1719,17 +1719,17 @@ msgstr "Doprava"
 #: activities/chronos/resource/board/board5_3.qml:49
 msgctxt "board5_3|"
 msgid "1791 Comte de Sivrac's Celerifere"
-msgstr ""
+msgstr "1791 Célérifère Comte de Sivrac"
 
 #: activities/chronos/resource/board/board5_3.qml:56
 msgctxt "board5_3|"
 msgid "1783 Montgolfier brothers' hot air balloon"
-msgstr ""
+msgstr "1783 Horkovzdušný balón Bratří Montgolfierů"
 
 #: activities/chronos/resource/board/board5_3.qml:63
 msgctxt "board5_3|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 Stephensonova Lokomotiva Rocket"
 
 #: activities/chronos/resource/board/board5_4.qml:25
 msgctxt "board5_4|"
@@ -1739,17 +1739,17 @@ msgstr "Doprava"
 #: activities/chronos/resource/board/board5_4.qml:49
 msgctxt "board5_4|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 Stephensonova Lokomotiva Rocket"
 
 #: activities/chronos/resource/board/board5_4.qml:56
 msgctxt "board5_4|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 Eole Clementa Adera"
 
 #: activities/chronos/resource/board/board5_4.qml:63
 msgctxt "board5_4|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 Cugnotův fardier"
 
 #: activities/chronos/resource/board/board6_0.qml:26
 msgctxt "board6_0|"
@@ -1759,17 +1759,17 @@ msgstr "Letectví"
 #: activities/chronos/resource/board/board6_0.qml:50
 msgctxt "board6_0|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 Eole Clementa Adera"
 
 #: activities/chronos/resource/board/board6_0.qml:57
 msgctxt "board6_0|"
 msgid "1903 The Wright brothers' Flyer III"
-msgstr ""
+msgstr "1903 bratří Wrightů Flyer III"
 
 #: activities/chronos/resource/board/board6_0.qml:64
 msgctxt "board6_0|"
 msgid "1909 Louis Bleriot crosses the English Channel"
-msgstr ""
+msgstr "1909 Louis Bleriot přeletěl Lamanšský průliv"
 
 #: activities/chronos/resource/board/board6_1.qml:25
 msgctxt "board6_1|"
@@ -1779,17 +1779,17 @@ msgstr "Letectví"
 #: activities/chronos/resource/board/board6_1.qml:49
 msgctxt "board6_1|"
 msgid "1947 Chuck Yeager breaks the sound-barrier"
-msgstr ""
+msgstr "1947 Chuck Yeager překročil rychlost zvuku"
 
 #: activities/chronos/resource/board/board6_1.qml:56
 msgctxt "board6_1|"
 msgid "1927 Charles Lindbergh crosses the Atlantic Ocean"
-msgstr ""
+msgstr "1927 Charles Lindbergh přeletěl Atlantský oceán"
 
 #: activities/chronos/resource/board/board6_1.qml:63
 msgctxt "board6_1|"
 msgid "1934 Hélène Boucher's speed record of 444km/h"
-msgstr ""
+msgstr "1934 Helene Boucher rychlostní rekord 444km/h"
 
 #: activities/chronos/resource/board/board6_2.qml:25
 msgctxt "board6_2|"
@@ -1799,17 +1799,17 @@ msgstr "Auta"
 #: activities/chronos/resource/board/board6_2.qml:49
 msgctxt "board6_2|"
 msgid "1878 Amédée Bollée's La Mancelle"
-msgstr ""
+msgstr "1878 Amédée Bollée La Mancelle"
 
 #: activities/chronos/resource/board/board6_2.qml:56
 msgctxt "board6_2|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 Cugnotův fardier"
 
 #: activities/chronos/resource/board/board6_2.qml:63
 msgctxt "board6_2|"
 msgid "1885 The first petrol car by Benz"
-msgstr ""
+msgstr "1885 první benzínové auto Benz"
 
 #: activities/chronos/resource/board/board6_3.qml:25
 msgctxt "board6_3|"
@@ -2255,89 +2255,89 @@ msgstr "Obrazy jsou z Wikimedia Commons."
 #: activities/details/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
 msgid "Eilean Donan castle"
-msgstr ""
+msgstr "Hrad Eilean Donan"
 
 #: activities/details/resource/board/board11_0.qml:25
 msgctxt "board11_0|"
 msgid "Gizah Pyramids, Egypt"
-msgstr ""
+msgstr "Pyramidy Gíza, Egypt"
 
 #: activities/details/resource/board/board12_0.qml:25
 msgctxt "board12_0|"
 msgid "Sydney Opera House, Australia"
-msgstr ""
+msgstr "Sydney Opera House, Austrálie"
 
 #: activities/details/resource/board/board13_0.qml:25
 msgctxt "board13_0|"
 msgid "Tower Bridge in London"
-msgstr ""
+msgstr "Tower Bridge v Londýně"
 
 #: activities/details/resource/board/board14_0.qml:25
 msgctxt "board14_0|"
 msgid "Eiffel Tower, seen from the champ de Mars, Paris, France"
-msgstr ""
+msgstr "Eiffel Tower, z champ de Mars, Paříž, Francie"
 
 #: activities/details/resource/board/board15_0.qml:25
 msgctxt "board15_0|"
 msgid "Courtyard of the Museum of Louvre, and its pyramid"
-msgstr ""
+msgstr "Nádvoří muzea Louvre a jeho pyramida"
 
 #: activities/details/resource/board/board16_0.qml:25
 msgctxt "board16_0|"
 msgid "Panorama of Château de Chenonceau, Indre-et-Loire, France."
-msgstr ""
+msgstr "Panorama z Château de Chenonceau, Indre-et-Loire, Francie."
 
 #: activities/details/resource/board/board17_0.qml:25
 msgctxt "board17_0|"
 msgid "Windmill in Sønderho, Fanø, Denmark"
-msgstr ""
+msgstr "Větrný mlýn v Sønderho, Fanø, Dánsko"
 
 #: activities/details/resource/board/board18_0.qml:25
 msgctxt "board18_0|"
 msgid "Nagoya Castle, Aichi Prefecture, Japan."
-msgstr ""
+msgstr "Hrad Nagoya, Aichi prefektura, Japonsko."
 
 #: activities/details/resource/board/board19_0.qml:25
 msgctxt "board19_0|"
 msgid "Taj Mahal, Agra, India"
-msgstr ""
+msgstr "Taj Mahal, Agra, Indie"
 
 #: activities/details/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Vincent van Gogh, Entrance Hall of Saint-Paul Hospital - 1889"
-msgstr ""
+msgstr "Vincent van Gogh, vstupní hala Saint-Paul Hospital - 1889"
 
 #: activities/details/resource/board/board20_0.qml:25
 msgctxt "board20_0|"
 msgid "Castle Neuschwanstein at Schwangau, Bavaria, Germany"
-msgstr ""
+msgstr "Zámek Neuschwanstein v Schwangau, Bavorsko, Německo"
 
 #: activities/details/resource/board/board21_0.qml:25
 msgctxt "board21_0|"
 msgid "Egeskov Castle, Denmark"
-msgstr ""
+msgstr "Zámek Egeskov, Dánsko"
 
 #: activities/details/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid ""
 "Vincent van Gogh, The Bridge of Langlois at Arles with a lady with umbrella "
 "- 1888"
-msgstr ""
+msgstr "Vincent van Gogh, mostu Langlois v Arles s dámou s deštníkem - 1888"
 
 #: activities/details/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Vincent van Gogh, The Church at Auvers-sur-Oise - 1890"
-msgstr ""
+msgstr "Vincent van Gogh, kostel v Auvers-sur-Oise - 1890"
 
 #: activities/details/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "Vincent van Gogh, Painter on His Way to Work - 1888"
-msgstr ""
+msgstr "Vincent van Gogh, malíř na jeho cestě do práce - 1888"
 
 #: activities/details/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
 msgid "Vincent van Gogh, The Harvest - 1888"
-msgstr ""
+msgstr "Vincent van Gogh, Sklizeň - 1888"
 
 #: activities/details/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
@@ -7820,7 +7820,7 @@ msgstr "Zadej aktivační kód"
 #: activities/menu/ConfigurationItem.qml:166
 msgctxt "ConfigurationItem|"
 msgid "Sorry, your code is too old for this version of GCompris"
-msgstr ""
+msgstr "Promiň, tvůj kód je příliš starý pro tuto verzi GCompris."
 
 #: activities/menu/ConfigurationItem.qml:169
 msgctxt "ConfigurationItem|"
@@ -7830,17 +7830,17 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:189
 msgctxt "ConfigurationItem|"
 msgid "Show locked activities"
-msgstr ""
+msgstr "Zobrazit uzamčené aktivity"
 
 #: activities/menu/ConfigurationItem.qml:199
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
-msgstr ""
+msgstr "Povolit hlasový popis"
 
 #: activities/menu/ConfigurationItem.qml:208
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
-msgstr ""
+msgstr "Povolit zvukové efekty"
 
 #: activities/menu/ConfigurationItem.qml:217
 msgctxt "ConfigurationItem|"
@@ -7855,7 +7855,7 @@ msgstr "Virtuální klávesnice"
 #: activities/menu/ConfigurationItem.qml:237
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
-msgstr ""
+msgstr "Povolit automatické stažení/aktualizace zvukových souborů"
 
 #: activities/menu/ConfigurationItem.qml:251
 msgctxt "ConfigurationItem|"
@@ -7870,7 +7870,7 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:274
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
-msgstr ""
+msgstr "Výběr písma"
 
 #: activities/menu/ConfigurationItem.qml:294
 msgctxt "ConfigurationItem|"
@@ -7886,22 +7886,22 @@ msgstr "Výchozí"
 #: activities/menu/ConfigurationItem.qml:312
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
-msgstr ""
+msgstr "Kapitalizace písma"
 
 #: activities/menu/ConfigurationItem.qml:332
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
-msgstr ""
+msgstr "Rozteč písmen"
 
 #: activities/menu/ConfigurationItem.qml:351
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
-msgstr ""
+msgstr "Výběr jazyka"
 
 #: activities/menu/ConfigurationItem.qml:378
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
-msgstr ""
+msgstr "Lokalizované hlasy"
 
 #: activities/menu/ConfigurationItem.qml:394
 msgctxt "ConfigurationItem|"
@@ -7916,7 +7916,7 @@ msgstr "Stáhnout"
 #: activities/menu/ConfigurationItem.qml:413
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
-msgstr ""
+msgstr "Výběr obtížnosti:"
 
 #: activities/menu/ConfigurationItem.qml:614
 msgctxt "ConfigurationItem|"
@@ -7938,17 +7938,17 @@ msgstr "Ne"
 #: activities/menu/ConfigurationItem.qml:672
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
-msgstr ""
+msgstr "Velká i malá písmena (výchozí)"
 
 #: activities/menu/ConfigurationItem.qml:673
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
-msgstr ""
+msgstr "Všechan písmena velká"
 
 #: activities/menu/ConfigurationItem.qml:674
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
-msgstr ""
+msgstr "Všechna písmena malá"
 
 #: activities/menu/Menu.qml:279
 msgctxt "Menu|"
@@ -8082,7 +8082,7 @@ msgstr ""
 #: activities/missing-letter/MissingLetter.qml:270
 msgctxt "MissingLetter|"
 msgid "Select your locale"
-msgstr ""
+msgstr "Vyber národní prostředí"
 
 #: activities/missing-letter/MissingLetter.qml:352
 msgctxt "MissingLetter|"
@@ -8161,7 +8161,7 @@ msgstr ""
 #: activities/money_back/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change"
-msgstr ""
+msgstr "Rozměň Tuxovi peníze"
 
 #: activities/money_back/ActivityInfo.qml:27
 #: activities/money_back_cents/ActivityInfo.qml:27
@@ -8196,12 +8196,12 @@ msgstr ""
 #: activities/money_back_cents/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change, including cents"
-msgstr ""
+msgstr "Dát Tux jeho změnu, včetně haléřů"
 
 #: activities/money_cents/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Money with cents"
-msgstr ""
+msgstr "Peníze s haléři"
 
 #: activities/money_cents/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -8227,7 +8227,7 @@ msgstr ""
 #: activities/numbers-odd-even/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Even and Odd Numbers"
-msgstr ""
+msgstr "Sudá a lichá čísla"
 
 #: activities/numbers-odd-even/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -8256,7 +8256,7 @@ msgstr ""
 #: activities/paintings/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Spatial representation"
-msgstr ""
+msgstr "Prostorové zobrazení"
 
 #: activities/paintings/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
