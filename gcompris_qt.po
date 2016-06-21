@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2016-06-13 20:08+0200\n"
+"PO-Revision-Date: 2016-06-21 21:10+0200\n"
 "Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -3009,7 +3009,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:87
 msgctxt "board2|"
 msgid "Ajanta Caves"
-msgstr ""
+msgstr "jeskyně Adžanta"
 
 #: activities/explore_monuments/resource/board/board2.qml:85
 msgctxt "board2|"
@@ -3019,6 +3019,10 @@ msgid ""
 "Maharashtra, India. There are  30 caves in Ajanta of which 9, 10, 19, 26 and "
 "29 are chaitya-grihas and the rest are monasteries."
 msgstr ""
+"Adžanta je světově největší historickou památkou UNESCO ležící jen 55 km od "
+"města Jalgaon a 105 km od města Aurangabad ve svazovém státě Maharáštra v "
+"Indii. V Adžantě se nachází 30 jeskyní z který jsou 9, 10, 19, 26 a 29 jsou "
+"náboženské svatyně (chaitja) a zbytek jsou kláštery."
 
 #: activities/explore_monuments/resource/board/board2.qml:95
 #: activities/explore_monuments/resource/board/board2.qml:98
@@ -3073,7 +3077,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:131
 msgctxt "board2|"
 msgid "Victoria Memorial"
-msgstr ""
+msgstr "Viktoriin památník"
 
 #: activities/explore_monuments/resource/board/board2.qml:129
 msgctxt "board2|"
@@ -3091,7 +3095,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:142
 msgctxt "board2|"
 msgid "Rang Ghar"
-msgstr "Zazvonil Ghar"
+msgstr "Rang Ghar"
 
 #: activities/explore_monuments/resource/board/board2.qml:140
 msgctxt "board2|"
@@ -3101,6 +3105,10 @@ msgid ""
 "buffalo fights and other sports at Rupahi Pathar - particularly during the "
 "Rongali Bihu festival in the Ahom capital of Rangpur."
 msgstr ""
+"Rang Ghar je dvouposchoďová budova, která dříve sloužila jako královský "
+"sportovní pavilón, kde se Ahomští králové a šlechtici koukali na hry jako "
+"bizoní zápasy a ostatní sporty v Rupahi Pathar - zejména během festivalu "
+"Rongali Bihu v Ahomském hlavním městě Rangpur."
 
 #: activities/explore_monuments/resource/board/board2.qml:150
 #: activities/explore_monuments/resource/board/board2.qml:153
